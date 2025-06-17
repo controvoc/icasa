@@ -1,0 +1,8 @@
+"name","Variable","Code_display","Description","Comment","DSSAT.code"
+"ED","soil_drainage_class","DRAINAGE","excessively drained",NA,NA
+"SED","soil_drainage_class","DRAINAGE","somewhat excessively drained",NA,NA
+"WD","soil_drainage_class","DRAINAGE","well drained",NA,NA
+"MWD","soil_drainage_class","DRAINAGE","moderately well drained",NA,NA
+"SPD","soil_drainage_class","DRAINAGE","somewhat poorly drained",NA,NA
+"PD","soil_drainage_class","DRAINAGE","poorly drained",NA,NA
+"VPD","soil_drainage_class","DRAINAGE","very poorly drained",NA,NA

@@ -1,0 +1,24 @@
+"name","Variable","Code_display","Description","Comment","DSSAT.code"
+"CLOSA","soil_texture","SLTX, FL_SLTX","Coarse loamy sand",NA,NA
+"CSA","soil_texture","SLTX, FL_SLTX","Coarse sand",NA,NA
+"CSI","soil_texture","SLTX, FL_SLTX","Coarse silt",NA,NA
+"CSALO","soil_texture","SLTX, FL_SLTX","Coarse sandy loam",NA,NA
+"CL","soil_texture","SLTX, FL_SLTX","Clay",NA,"C"
+"CLLO","soil_texture","SLTX, FL_SLTX","Clay loam",NA,"CL"
+"FLO","soil_texture","SLTX, FL_SLTX","Fine loam",NA,NA
+"FLOSA","soil_texture","SLTX, FL_SLTX","Fine loamy sand",NA,NA
+"FSA","soil_texture","SLTX, FL_SLTX","Fine sand",NA,NA
+"FSALO","soil_texture","SLTX, FL_SLTX","Fine sandy loam",NA,NA
+"SICLL","soil_texture","SLTX, FL_SLTX","Silty clay loam",NA,"SICL"
+"LO","soil_texture","SLTX, FL_SLTX","Loam",NA,"L"
+"LOSA","soil_texture","SLTX, FL_SLTX","Loamy sand",NA,"LS"
+"SA","soil_texture","SLTX, FL_SLTX","Sand",NA,"S"
+"SACL","soil_texture","SLTX, FL_SLTX","Sandy clay",NA,"SC"
+"SACLL","soil_texture","SLTX, FL_SLTX","Sandy clay loam",NA,"SCL"
+"SI","soil_texture","SLTX, FL_SLTX","Silt",NA,NA
+"SICL","soil_texture","SLTX, FL_SLTX","Silty clay",NA,"SIC"
+"SILO","soil_texture","SLTX, FL_SLTX","Silty loam",NA,"SIL"
+"SALO","soil_texture","SLTX, FL_SLTX","Sandy loam",NA,"SL"
+"VFLOS","soil_texture","SLTX, FL_SLTX","Very fine loamy sand",NA,NA
+"VFSA","soil_texture","SLTX, FL_SLTX","Very fine sand",NA,NA
+"VFSAL","soil_texture","SLTX, FL_SLTX","Very fine sandy loam",NA,NA

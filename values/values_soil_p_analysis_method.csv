@@ -1,0 +1,17 @@
+"name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
+"SA001","Soil P analysis method","SAMPX, SMPX","Olsen",NA,NA,1
+"SA002","Soil P analysis method","SAMPX, SMPX","Bray No. 1",NA,NA,1
+"SA003","Soil P analysis method","SAMPX, SMPX","Bray No. 2",NA,NA,1
+"SA004","Soil P analysis method","SAMPX, SMPX","Mehlich 1 (double acid, 1:5)",NA,NA,1
+"SA005","Soil P analysis method","SAMPX, SMPX","Anion exchange resin",NA,NA,1
+"SA006","Soil P analysis method","SAMPX, SMPX","Truog",NA,NA,1
+"SA007","Soil P analysis method","SAMPX, SMPX","Mehlich 1 (double acid, 1:10)",NA,NA,1
+"SA008","Soil P analysis method","SAMPX, SMPX","Colwell",NA,NA,1
+"SA009","Soil P analysis method","SAMPX, SMPX","Water",NA,NA,1
+"SA010","Soil P analysis method","SAMPX, SMPX","IFDC Pi strip",NA,NA,1
+"SA011","Soil P analysis method","SAMPX, SMPX","pH in Water",NA,NA,1
+"SA012","Soil P analysis method","SAMPX, SMPX","pH in KCl",NA,NA,1
+"SA013","Soil P analysis method","SAMPX, SMPX","Mehlich 3",NA,NA,1
+"SA014","Soil P analysis method","SAMPX, SMPX","Morgan's solution",NA,NA,1
+"SA015","Soil P analysis method","SAMPX, SMPX","NH4OAc",NA,NA,1
+"SA099","Soil P analysis method","SAMPX, SMPX","Method unknown/not given",NA,NA,NA

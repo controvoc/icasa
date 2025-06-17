@@ -1,0 +1,5 @@
+"name","Code_display","Description","Comment","ICASA_standard"
+"MT001","MGMT_TYPE","Researcher managed on experiment station",NA,1
+"MT002","MGMT_TYPE","Researcher managed on farm",NA,1
+"MT003","MGMT_TYPE","Farmer managed on farm",NA,1
+"MT004","MGMT_TYPE","Researcher and farmer joint-managed",NA,1

@@ -1,0 +1,6 @@
+"name","Code_display","Description","Comment","ICASA_standard"
+"ED001","EXPER_DESIGN","Randomized complete block design (RCBD)",NA,3
+"ED002","EXPER_DESIGN","Completely randomized design",NA,3
+"ED003","EXPER_DESIGN","Randomized block design",NA,3
+"ED004","EXPER_DESIGN","Randomized incomplete block design",NA,3
+"ED005","EXPER_DESIGN","Generalized randomized block design (GRBD)",NA,3

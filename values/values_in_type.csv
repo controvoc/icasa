@@ -1,0 +1,9 @@
+"name","Code_display","Description","Comment","ICASA_standard"
+"IT001","IN_TYPE","University, main campus",NA,1
+"IT002","IN_TYPE","University experiment station",NA,1
+"IT003","IN_TYPE","Government research institution",NA,1
+"IT004","IN_TYPE","Government research institution, designated laboratory or center",NA,1
+"IT005","IN_TYPE","Private company",NA,1
+"IT006","IN_TYPE","Farm",NA,1
+"IT007","IN_TYPE","Farmer association or cooperative",NA,1
+"IT008","IN_TYPE","Non-governmental organization",NA,1

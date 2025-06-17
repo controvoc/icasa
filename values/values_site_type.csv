@@ -1,0 +1,6 @@
+"name","Code_display","Description","Comment","ICASA_standard"
+"ST001","SITE_TYPE","Experiment station field",NA,1
+"ST002","SITE_TYPE","Farm field",NA,1
+"ST003","SITE_TYPE","Controlled environment such as chamber or glasshouse",NA,1
+"ST004","SITE_TYPE","First season of cleared pasture or grassland",NA,1
+"ST005","SITE_TYPE","First season of cleared forest",NA,1

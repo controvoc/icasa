@@ -1,0 +1,10 @@
+"name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
+"canopy","Harvest components","HACOM","Above-ground biomass",NA,NA,1
+"leaf","Harvest components","HACOM","Leaves",NA,NA,1
+"grain","Harvest components","HACOM","Grain, legume seeds",NA,NA,1
+"silage","Harvest components","HACOM","Silage",NA,NA,1
+"tuber","Harvest components","HACOM","Underground storage components (e.g., tubers, roots, corms, rhyzomes, etc.)",NA,"2021-05-13, chp",1
+"fruit","Harvest components","HACOM","Fruit",NA,NA,1
+"fiber","Harvest components","HACOM","Fiber, e.g., cotton",NA,"2021-05-13, chp",1
+"seed_cotton","Harvest components","HACOM","Cotton boll, including lint",NA,"2021-05-13, chp",1
+"stem","Harvest components","HACOM","Stem",NA,"2021-05-13, chp",1

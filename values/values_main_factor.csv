@@ -1,0 +1,9 @@
+"name","Code_display","Description","Comment","ICASA_standard"
+"FACE","MAIN_FACTOR, FACTORS","Free Air Carbon Exchange",NA,2
+"fertilizer","MAIN_FACTOR, FACTORS","fertilizer rate experiment",NA,2
+"irrigation","MAIN_FACTOR, FACTORS","irrigation rate experiment",NA,2
+"location","MAIN_FACTOR, FACTORS","site or location experiment",NA,2
+"other","MAIN_FACTOR, FACTORS","other not described",NA,2
+"rotation","MAIN_FACTOR, FACTORS","crop rotation",NA,2
+"varieties","MAIN_FACTOR, FACTORS","variety trials",NA,2
+"yield_trials","MAIN_FACTOR, FACTORS","yield trials",NA,2

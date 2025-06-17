@@ -1,0 +1,22 @@
+"name","Code_display","Latin_name","Common_name","Pest_type","Host_species","Pest_notes","ICASA_standard"
+"RWBLBD","CH_TARGETS",NA,"Red-wing black bird","Bird",NA,NA,1
+"PCLA","CH_TARGETS","(generic)","Defoliation, %","General",NA,NA,1
+"PDLA","CH_TARGETS","(generic)","Diseased leaf area, %","General",NA,NA,1
+"PSTDS","CH_TARGETS","(generic)","General pest and diseases losses due to rot, tikka, leafminer, etc.","General",NA,NA,1
+"MOWING","CH_TARGETS","(mechanical)","Mowing","General",NA,NA,1
+"PRP","CH_TARGETS","(generic)","Reduction in photosynthetic rate, %","General",NA,NA,1
+"CEW","CH_TARGETS",NA,"Corn earworm (Heliothis zea), no. m-2","Insect",NA,NA,1
+"CUTWORM","CH_TARGETS","(generic)","Cutworm, no. m-2","Insect",NA,NA,1
+"GRUBS","CH_TARGETS","(generic)","Grubs","Insect",NA,NA,1
+"LEAF_MIN","CH_TARGETS","Aproaerema Modicella-Deventer","Leafminer","Insect",NA,NA,1
+"SKB","CH_TARGETS","Mezara viridula","Southern green stinkbug (Mezara viridula), no. m-2","Insect",NA,NA,1
+"SBL","CH_TARGETS","Pseudoplusia includens","Soybean looper (Pseudoplusia includens), no. m-2","Insect",NA,NA,1
+"VBC","CH_TARGETS","Anticarsia gemmatalis","Velvetbean caterpillar (Anticarsia gemmatalis), no. m-2","Insect",NA,NA,1
+"COTRAB","CH_TARGETS",NA,"Cotton-tail rabbit","Mammal",NA,NA,1
+"RKN","CH_TARGETS","Meloidogyne spp.","Root-knot nematode (Meloidogyne spp.), no. cm-3 soil","Nematode",NA,NA,1
+"PSTVd","CH_TARGETS",NA,"Potato spindle tuber  viroid","Viroid",NA,NA,1
+"BCMV","CH_TARGETS",NA,"Bean common mosaic virus","Virus",NA,NA,1
+"HAIL","CH_TARGETS",NA,"Hail storm damage","Weather",NA,NA,1
+"WIND","CH_TARGETS",NA,"Wind damage","Weather",NA,"Typically defoliation or lodging",1
+"BRLFWD","CH_TARGETS","(generic)","Broad-leafed weeds","Weed",NA,NA,1
+"PRPNUTSDG","CH_TARGETS",NA,"Purple nutsedge","Weed",NA,NA,1

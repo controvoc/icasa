@@ -1,0 +1,40 @@
+"name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
+"TI001","Tillage implements","TIIMP","V-Ripper",NA,"One pass, Generic soil conditions",1
+"TI002","Tillage implements","TIIMP","Subsoiler",NA,"One pass, Generic soil conditions",1
+"TI003","Tillage implements","TIIMP","Moldboard plow 20 cm depth",NA,"One pass, Generic soil conditions",1
+"TI004","Tillage implements","TIIMP","Chisel plow, sweeps",NA,"One pass, Generic soil conditions",1
+"TI005","Tillage implements","TIIMP","Chisel plow, straight point",NA,"One pass, Generic soil conditions",1
+"TI006","Tillage implements","TIIMP","Chisel plow, twisted shovels",NA,"One pass, Generic soil conditions",1
+"TI007","Tillage implements","TIIMP","Disk plow",NA,"One pass, Generic soil conditions",1
+"TI008","Tillage implements","TIIMP","Disk, 1-way",NA,"One pass, Generic soil conditions",1
+"TI009","Tillage implements","TIIMP","Disk, tandem",NA,"One pass, Generic soil conditions",1
+"TI010","Tillage implements","TIIMP","Disk, double disk",NA,"One pass, Generic soil conditions",1
+"TI011","Tillage implements","TIIMP","Cultivator, field",NA,"One pass, Generic soil conditions",1
+"TI012","Tillage implements","TIIMP","Cultivator, row",NA,"One pass, Generic soil conditions",1
+"TI013","Tillage implements","TIIMP","Cultivator, ridge till",NA,"One pass, Generic soil conditions",1
+"TI014","Tillage implements","TIIMP","Harrow, spike",NA,"One pass, Generic soil conditions",1
+"TI015","Tillage implements","TIIMP","Harrow, tine",NA,"One pass, Generic soil conditions",1
+"TI016","Tillage implements","TIIMP","Lister",NA,"One pass, Generic soil conditions",1
+"TI017","Tillage implements","TIIMP","Bedder",NA,"One pass, Generic soil conditions",1
+"TI018","Tillage implements","TIIMP","Blade cultivator",NA,"One pass, Generic soil conditions",1
+"TI019","Tillage implements","TIIMP","Fertilizer applicator, anhydrous",NA,"One pass, Generic soil conditions",1
+"TI020","Tillage implements","TIIMP","Manure injector",NA,"One pass, Generic soil conditions",1
+"TI021","Tillage implements","TIIMP","Animal-drawn implement",NA,"One pass, Generic soil conditions",1
+"TI022","Tillage implements","TIIMP","Mulch treader",NA,"One pass, Generic soil conditions",1
+"TI023","Tillage implements","TIIMP","Plank",NA,"One pass, Generic soil conditions",1
+"TI024","Tillage implements","TIIMP","Roller packer",NA,"One pass, Generic soil conditions",1
+"TI025","Tillage implements","TIIMP","Drill, double-disk",NA,"Generic soil conditions",1
+"TI026","Tillage implements","TIIMP","Drill, deep furrow",NA,"Generic soil conditions",1
+"TI031","Tillage implements","TIIMP","Drill, no-till",NA,"Generic soil conditions",1
+"TI032","Tillage implements","TIIMP","Drill, no-till [sod]",NA,"Into sod, generic soil conditions",1
+"TI033","Tillage implements","TIIMP","Planter, row",NA,"Generic soil conditions",1
+"TI034","Tillage implements","TIIMP","Planter, no-till",NA,"Generic soil conditions",1
+"TI035","Tillage implements","TIIMP","Planting stick (hand)",NA,"Generic soil conditions",1
+"TI036","Tillage implements","TIIMP","Matraca hand planter",NA,"Brazilian-style jab planter that meters seed",1
+"TI037","Tillage implements","TIIMP","Rod weeder",NA,"Generic soil conditions",1
+"TI038","Tillage implements","TIIMP","Rotary hoe",NA,"Generic soil conditions",1
+"TI039","Tillage implements","TIIMP","Roller harrow, cultipacker",NA,"One pass, Generic soil conditions",1
+"TI041","Tillage implements","TIIMP","Moldboard plow 25 cm",NA,"One pass, Generic soil conditions",1
+"TI042","Tillage implements","TIIMP","Moldboard plow 30 cm",NA,"One pass, Generic soil conditions",1
+"TI043","Tillage implements","TIIMP","Strip tillage",NA,"One pass, Generic soil conditions",1
+"TI044","Tillage implements","TIIMP","Laser leveling",NA,"Effects vary spatially",1

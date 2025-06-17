@@ -1,0 +1,7 @@
+"name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
+"R","planting_distribution","PLDS","Rows",NA,NA,1
+"H","planting_distribution","PLDS","Hills",NA,NA,1
+"U","planting_distribution","PLDS","Uniform/Broadcast",NA,NA,1
+"RB","planting_distribution","PLDS","Rows on beds",NA,NA,1
+"N","planting_distribution","PLDS","Unknown/not given",NA,NA,1
+"P","planting_distribution","PLDS","Pots",NA,NA,1

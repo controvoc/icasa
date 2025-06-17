@@ -1,0 +1,49 @@
+"name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
+"CH001","Chemicals","CHCD","Alachlor (Lasso), Metolachlor (Dual) [Herbicide]","Herbicide",NA,1
+"CH002","Chemicals","CHCD","Propanil [Herbicide]","Herbicide",NA,1
+"CH003","Chemicals","CHCD","Trifluralin [Herbicide]","Herbicide",NA,1
+"CH004","Chemicals","CHCD","Dalapon [Herbicide]","Herbicide",NA,1
+"CH005","Chemicals","CHCD","MCPA [Herbicide]","Herbicide",NA,1
+"CH006","Chemicals","CHCD","2,4-D [Herbicide]","Herbicide",NA,1
+"CH007","Chemicals","CHCD","2,4,5-T [Herbicide]","Herbicide",NA,1
+"CH008","Chemicals","CHCD","Pendimethalin [Herbicide]","Herbicide",NA,1
+"CH009","Chemicals","CHCD","Atrazine [Herbicide]","Herbicide",NA,1
+"CH010","Chemicals","CHCD","Diquat [Herbicide]","Herbicide",NA,1
+"CH011","Chemicals","CHCD","Paraquat [Herbicide]","Herbicide",NA,1
+"CH012","Chemicals","CHCD","Glyphosate [Herbicide]","Herbicide",NA,1
+"CH021","Chemicals","CHCD","Carbaryl, Sevin, Septene [Insecticide]","Insecticide",NA,1
+"CH022","Chemicals","CHCD","Malathion, Mercaptothion [Insecticide]","Insecticide",NA,1
+"CH023","Chemicals","CHCD","Naled [Insecticide]","Insecticide",NA,1
+"CH024","Chemicals","CHCD","Dimethoate [Insecticide]","Insecticide",NA,1
+"CH025","Chemicals","CHCD","Fention [Insecticide]","Insecticide",NA,1
+"CH026","Chemicals","CHCD","Diazinon, Basudin [Insecticide]","Insecticide",NA,1
+"CH027","Chemicals","CHCD","Ethion, Diethion [Insecticide]","Insecticide",NA,1
+"CH028","Chemicals","CHCD","Oxydemeton-Methyl [Insecticide]","Insecticide",NA,1
+"CH029","Chemicals","CHCD","Azinphos-Methyl [Insecticide]","Insecticide",NA,1
+"CH030","Chemicals","CHCD","Phosphamidon [Insecticide]","Insecticide",NA,1
+"CH031","Chemicals","CHCD","Mevinphosl [Insecticide]","Insecticide",NA,1
+"CH032","Chemicals","CHCD","Methyl Parathion [Insecticide]","Insecticide",NA,1
+"CH033","Chemicals","CHCD","Parathion [Insecticide]","Insecticide",NA,1
+"CH034","Chemicals","CHCD","DDT [Insecticide]","Insecticide",NA,1
+"CH035","Chemicals","CHCD","BHC, HCH [Insecticide]","Insecticide",NA,1
+"CH036","Chemicals","CHCD","Chlordane [Insecticide]","Insecticide",NA,1
+"CH037","Chemicals","CHCD","Heptachlor [Insecticide]","Insecticide",NA,1
+"CH038","Chemicals","CHCD","Toxaphene [Insecticide]","Insecticide",NA,1
+"CH039","Chemicals","CHCD","Aldrin [Insecticide]","Insecticide",NA,1
+"CH040","Chemicals","CHCD","Dieldrin [Insecticide]","Insecticide",NA,1
+"CH041","Chemicals","CHCD","Endrin, Nendrin [Insecticide]","Insecticide",NA,1
+"CH042","Chemicals","CHCD","Methomyl, Lannat [Insecticide]","Insecticide",NA,1
+"CH043","Chemicals","CHCD","Thiotex [Insecticide]","Insecticide",NA,1
+"CH044","Chemicals","CHCD","Furadan [Insecticide]","Insecticide",NA,1
+"CH045","Chemicals","CHCD","Endosulfan [Insecticide]","Insecticide",NA,1
+"CH051","Chemicals","CHCD","Captan [Fungicide]","Fungicide",NA,1
+"CH052","Chemicals","CHCD","Benomyl [Fungicide]","Fungicide",NA,1
+"CH053","Chemicals","CHCD","Zineb [Fungicide]","Fungicide",NA,1
+"CH054","Chemicals","CHCD","Maneb [Fungicide]","Fungicide",NA,1
+"CH055","Chemicals","CHCD","Mancozeb [Fungicide]","Fungicide",NA,1
+"CH056","Chemicals","CHCD","Tilt [Fungicide]","Fungicide",NA,1
+"CH057","Chemicals","CHCD","Rhizobium (for legume crops)","Innoculant",NA,1
+"CH100","Chemicals","CHCD","Pix [Mepiquat Chloride; Growth Regulator]","Growth regulator",NA,1
+"CH101","Chemicals","CHCD","Ethephon [Growth Regulator]","Growth regulator",NA,1
+"CH102","Chemicals","CHCD","Ethylene [Growth Regulator]","Growth regulator",NA,1
+"CH201","Chemicals","CHCD","Coragen / Chlortraniliprole","insecticide",NA,1

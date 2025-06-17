@@ -1,0 +1,5 @@
+"name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
+"DR000","Drainage management","FL_DRNTYPE","No drainage",NA,NA,1
+"DR001","Drainage management","FL_DRNTYPE","Ditches",NA,NA,1
+"DR002","Drainage management","FL_DRNTYPE","Sub-surface tiles",NA,NA,1
+"DR003","Drainage management","FL_DRNTYPE","Surface furrows",NA,NA,1

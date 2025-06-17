@@ -1,0 +1,3 @@
+"name","Variable","Code_display","Description","Comment","DSSAT.code"
+"var1;MISS;NPWR","flag_for_summary_data","FLAGA","For variable 1 (e.g., SRAD), values were missing and were replaced with data from NASA/POWER","(pending discussion of data flags)",NA
+"var1;LOW;NPWR","flag_for_summary_data","FLAGA","For variable 1 (e.g., SRAD), values were too low and were replaced with data from NASA/POWER",NA,NA

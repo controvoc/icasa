@@ -1,0 +1,12 @@
+"name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
+"MT001","Mulch Type","MLTP, MLTPR","Polyethylene sheet - solid",NA,"Vers 1.1",1
+"MT002","Mulch Type","MLTP, MLTPR","Polyethylene sheet - perforated",NA,"Vers 1.1",1
+"MT003","Mulch Type","MLTP, MLTPR","Landscape fabric",NA,"Vers 1.1",1
+"MT004","Mulch Type","MLTP, MLTPR","Paper",NA,"Vers 1.1",1
+"MT005","Mulch Type","MLTP, MLTPR","Grass clippings",NA,"Vers 1.1",1
+"MT006","Mulch Type","MLTP, MLTPR","Pine needles",NA,"Vers 1.1",1
+"MT007","Mulch Type","MLTP, MLTPR","Straw",NA,"Vers 1.1",1
+"MT008","Mulch Type","MLTP, MLTPR","Foil",NA,"Vers 1.1",1
+"MT009","Mulch Type","MLTP, MLTPR","Foil coated plastic",NA,"Vers 1.1",1
+"MT010","Mulch Type","MLTP, MLTPR","Photodegradable plastic",NA,"Vers 1.1",1
+"MT999","Mulch Type","MLTP, MLTPR","Not given/unknown",NA,NA,1

@@ -1,0 +1,5 @@
+"name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
+"A","Harvest size","HASIZ","All",NA,NA,1
+"S","Harvest size","HASIZ","Small - less than 1/3 full size",NA,NA,1
+"M","Harvest size","HASIZ","Medium - from 1/3 to 2/3 full size",NA,NA,1
+"L","Harvest size","HASIZ","Large - greater than 2/3 full size",NA,NA,1

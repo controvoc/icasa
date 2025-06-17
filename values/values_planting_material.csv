@@ -1,0 +1,10 @@
+"name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
+"S","planting_material","PLMA","Dry seed",NA,NA,1
+"T","planting_material","PLMA","Transplants",NA,NA,1
+"N","planting_material","PLMA","Nursery",NA,NA,1
+"P","planting_material","PLMA","Pregerminated seed",NA,NA,1
+"R","planting_material","PLMA","Ratoon",NA,NA,1
+"V","planting_material","PLMA","Vertically planted sticks",NA,"chp 2018-03-03",NA
+"H","planting_material","PLMA","Horizontally planted sticks",NA,"chp 2018-03-03",NA
+"I","planting_material","PLMA","Inclined (45o) sticks",NA,"chp 2018-03-03",NA
+"C","planting_material","PLMA","Cutting",NA,"chp 2018-03-03",NA
