@@ -39,7 +39,7 @@
 "treatment_comments","character","","","","","Treatment, extended comments on treatments","TR_NOTES","TR_NOTES",37,NA,"text","memo","EXPERIMENT","MANAGEMENT","TREATMENTS",NA,2011,NA,NA,"TREATMENT",2199
 "id","numeric","","","","","id","id","id",0,1,NA,"single","EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,NA,NA,NA,NA
 "cultivar_level","numeric","","","","","Genotype level, as listed in Treatments table under GE","GE","GE",1,NA,"number","single","EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,NA,"CU","CULTIVARS",2201
-"crop_ident_ICASA","character","","CRID","","","Crop (or weed) species identifier","CRID","CRID",3,NA,"code","text","EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,NA,"CR","CULTIVARS",2202
+"crop_ident_ICASA","character","","crop","","","Crop (or weed) species identifier","CRID","CRID",3,NA,"code","text","EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,NA,"CR","CULTIVARS",2202
 "cultivar_identifier","character","","","","","Cultivar, line or genotype identifier","CUL_ID","CUL_ID",4,NA,"code","text","EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,NA,"INGENO","CULTIVARS",2203
 "relative_maturity","numeric","days","","","","Relative maturity","RM","RM",5,NA,"days","single","EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,NA,NA,NA,NA
 "cultivar_name","character","","","","","Cultivar name","CUL_NAME","CUL_NAME",6,NA,"text","text","EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,NA,"CNAME","CULTIVARS",2204
@@ -334,7 +334,7 @@
 "chemical_applic_method","character","","","","","Chemicals application method","CHACD","CHACD",6,NA,"code","text","EXPERIMENT","MANAGEMENT","CHEMICALS","CHEMICAL_APPLICS",2112,NA,"CHME","CHEMICAL APPLICATIONS",3105
 "application_depth_chem","numeric","cm","","0","","Chemicals application depth","CHDEP","CHDEP",7,NA,"cm","single","EXPERIMENT","MANAGEMENT","CHEMICALS","CHEMICAL_APPLICS",2112,NA,"CHDEP","CHEMICAL APPLICATIONS",3106
 "chemical_applic_amount","numeric","kg/ha","","0","","Chemicals application amount (active)","CHAMT","CHAMT",8,NA,"kg/ha","single","EXPERIMENT","MANAGEMENT","CHEMICALS","CHEMICAL_APPLICS",2112,NA,"CHAMT","CHEMICAL APPLICATIONS",3104
-"chemical_applic_target","character","","ch_tagets","","","Chemicals application target","CH_TARGETS","CH_TARGETS",9,NA,"code","text","EXPERIMENT","MANAGEMENT","CHEMICALS","CHEMICAL_APPLICS",2112,NA,"CHT","CHEMICAL APPLICATIONS",3107
+"chemical_applic_target","character","","ch_targets","","","Chemicals application target","CH_TARGETS","CH_TARGETS",9,NA,"code","text","EXPERIMENT","MANAGEMENT","CHEMICALS","CHEMICAL_APPLICS",2112,NA,"CHT","CHEMICAL APPLICATIONS",3107
 "id","numeric","","","","","id","id","id",0,1,NA,"single","EXPERIMENT","MANAGEMENT","TILLAGE",NA,2121,NA,NA,NA,NA
 "tillage_level","numeric","","","","","Tillage operation level","TI","TI",1,NA,"number","single","EXPERIMENT","MANAGEMENT","TILLAGE",NA,2121,NA,"TL",NA,NA
 "tillage_treatment_name","character","","","","","Tillage, name assigned to treatments over trial","TI_NAME","TI_NAME",2,NA,"text","text","EXPERIMENT","MANAGEMENT","TILLAGE",NA,2121,NA,".",NA,NA
@@ -389,7 +389,7 @@
 "harvest_operations_day","numeric","day","","0","366","Harvest operations day, DAP if year = -99","HADAY","HADAY",4,1,"day","single","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,".",NA,NA
 "harvest_crop","character","","","","","Harvest operations, crop harvested","HACR","HACR",5,NA,"code","text","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,"2016-04-04, CHP",".",NA,NA
 "harvest_stage","character","","","","","Harvest, growth stage of crop at date","HASTG","HASTG",6,NA,"code","text","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,"HSTG","HARVEST DETAILS",3403
-"harvested_crop","character","","CRID","","","Crop species harvested","HACRID","HACRID",7,NA,"code","text","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,".",NA,NA
+"harvested_crop","character","","crop","","","Crop species harvested","HACRID","HACRID",7,NA,"code","text","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,".",NA,NA
 "harvest_operat_component","character","","","","","Harvest operations, crop component harvested","HACOM","HACOM",8,NA,"code","text","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,"HCOM","HARVEST DETAILS",3404
 "harvest_method","character","","","","","Harvest method","HARM","HARM",9,NA,"code","text","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,NA,NA,NA
 "harvest_area","numeric","m2","","0","","Actual plot area harvested (sometimes differs from planned area)","HAREA","HAREA",10,NA,"m2","single","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,"2019-09-12, chp - changed to ha",NA,NA,NA
