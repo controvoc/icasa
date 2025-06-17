@@ -44,7 +44,7 @@
 "relative_maturity","numeric","days","","","","Relative maturity","RM","RM",5,NA,"days","single","EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,NA,NA,NA,NA
 "cultivar_name","character","","","","","Cultivar name","CUL_NAME","CUL_NAME",6,NA,"text","text","EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,NA,"CNAME","CULTIVARS",2204
 "cultivar_notes","character","","","","","Cultivar notes","CUL_NOTES","CUL_NOTES",19,NA,"text","text","EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,NA,NA,NA,NA
-"crop_intended_use","character","","","","","Intended use of crop","CROP_USE","CROP_USE",NA,NA,"code","text","EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,"2023-03-06, CHP",NA,NA,NA
+"crop_intended_use","character","","genotypes","","","Intended use of crop","CROP_USE","CROP_USE",NA,NA,"code","text","EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,"2023-03-06, CHP",NA,NA,NA
 "cultivar_name_orig","character","","","","","Cultivar name as given in original (source) data","CUL_ORIG","CUL_ORIG",7,NA,"text","text","EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,"JWW",NA,NA,NA
 "cultivar_synonym",NA,"","","","",NA,"CUL_SYN","CUL_SYN",8,NA,NA,NA,"EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,"JWW",NA,NA,NA
 "cultivar_class","character","","","","","Description according to commonly used scales (e.g., “hard red spring wheat”)","CUL_CL","CUL_CL",9,NA,"text","text","EXPERIMENT","MANAGEMENT","GENOTYPES",NA,2021,"JWW",NA,NA,NA
@@ -63,13 +63,13 @@
 "field_country","character","","","","","Name of country where field is located","FL_LOC_1","FL_LOC_1",5,NA,"text","text","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,".",NA,NA
 "field_sub_country","character","","","","","First political subdivision for field location (e.g., state, province, department)","FL_LOC_2","FL_LOC_2",6,NA,"text","text","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,".",NA,NA
 "field_sub_sub_country","character","","","","","Second political subdivision for field location (e.g, county)","FL_LOC_3","FL_LOC_3",7,NA,"text","text","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,".",NA,NA
-"field_latitude","numeric","decimal_degrees","","-80","80","Field latitude","FL_LAT","FL_LAT",11,NA,"decimal_degrees","single","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,"YCRD","FIELDS",2322
-"field_longitude","numeric","decimal_degrees","","-180","180","Field longitude, E positive, W negative","FL_LONG","FL_LONG",12,NA,"decimal_degrees","single","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,"XCRD","FIELDS",2321
+"field_latitude","numeric","degrees","","-80","80","Field latitude","FL_LAT","FL_LAT",11,NA,"decimal_degrees","single","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,"YCRD","FIELDS",2322
+"field_longitude","numeric","degrees","","-180","180","Field longitude, E positive, W negative","FL_LONG","FL_LONG",12,NA,"decimal_degrees","single","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,"XCRD","FIELDS",2321
 "field_loc_anon","character","","","","","Anonymization of field location (Y or N)","FL_ANON","FL_ANON",NA,NA,"text","text","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,NA,NA,NA
 "field_location_source","character","","","","","Source of field location data, indication of accuracy of FL_LAT and FL_LONG","LOC_SOURCE","LOC_SOURCE",12,NA,"text","text","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,"2013-09-13, CHP",".",NA,NA
 "field_geocoord_original","character","","","","","Original geocoordinates as given in source as text","FL_GEOCOORD_ORIG","FL_GEOCOORD_ORIG",12,NA,"text","text","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,"2017-03-17, JWW",NA,NA,NA
 "field_elevation","numeric","m","","-400","5000","Elevation of field site","FLELE","FLELE",13,NA,"m","single","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,"ELEV","FIELDS",2323
-"field_landscape_position","character","","","","","Landscape class of location (e.g., coastal)","FL_LAND","FL_LAND",14,NA,"code","text","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,"2013-02-07, JWW",".",NA,NA
+"field_landscape_position","character","","field_landscape_position","","","Landscape class of location (e.g., coastal)","FL_LAND","FL_LAND",14,NA,"code","text","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,"2013-02-07, JWW",".",NA,NA
 "field_slope","numeric","percent","","0","90","Field slope (from horizontal)","FLSL","FLSL",15,NA,"percent","single","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,"FLSA","FIELDS",2304
 "field_slope_length","numeric","m","","0","","Field slope length","FLSLL","FLSLL",16,NA,"m","single","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,"SLEN","FIELDS",2315
 "field_slope_aspect","character","","","0","","Field slope aspect, W, nW, etc.","FLSLA","FLSLA",17,NA,"text","text","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,"SLSA","FIELDS",2317
@@ -81,7 +81,7 @@
 "field_plow_layer_compac","numeric","","","","","Field plow layer compaction (0 to 1 scale)","FL_PLOWDC","FL_PLOWDC",23,NA,"number","single","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,".",NA,NA
 "field_history_duration",NA,"year","","","","Field history duration under cultivation","FL_DUR","FL_DUR",27,NA,"year",NA,"EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,"FLDUR","FIELDS",2319
 "field_history","character","","","","","History based on intensity, crops, or prior vegetation","FL_HIST","FL_HIST",28,NA,"code",NA,"EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,"FLHST","FIELDS",2318
-"drainage_type","character","","","","","Drainage, type in field","FL_DRNTYPE","FL_DRNTYPE",23,NA,"code","text","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,"FLDT","FIELDS",2307
+"drainage_type","character","","drainage_management","","","Drainage, type in field","FL_DRNTYPE","FL_DRNTYPE",23,NA,"code","text","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,"FLDT","FIELDS",2307
 "depth_to_drain","numeric","cm","","0","","Drain, depth in field","FLDRD","FLDRD",24,NA,"cm","single","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,"FLDD","FIELDS",2308
 "drain_spacing","numeric","m","","0","","Drain spacing","FLDRS","FLDRS",25,NA,"m","single","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,"FLDS","FIELDS",2309
 "drain_radius","numeric","cm","","","","Drain radius","FLDRAD","FLDRAD",26,NA,"cm","single","EXPERIMENT","MANAGEMENT","FIELDS",NA,2031,NA,NA,NA,NA
@@ -101,9 +101,9 @@
 "soil_family_NRCS_system","character","","","","","Soil family, NRCS system","NRCSFAM","NRCSFAM",3,NA,"text","text","EXPERIMENT","MANAGEMENT","SOIL_ANALYSES",NA,2041,NA,".",NA,NA
 "soil_analysis_year","numeric","year","","","","Soil analysis year","SAYR","SAYR",4,NA,"year","single","EXPERIMENT","MANAGEMENT","SOIL_ANALYSES",NA,2041,NA,".",NA,NA
 "soil_analysis_day","numeric","day","","0","366","Soil analysis day of year or days after planting","SADAY","SADAY",5,NA,"day","single","EXPERIMENT","MANAGEMENT","SOIL_ANALYSES",NA,2041,NA,".",NA,NA
-"soil_analys_meth_pH_buff","character","","","","","Soil anlysis method for pH in buffer solution","SAMHB","SAMHB",6,NA,"code","text","EXPERIMENT","MANAGEMENT","SOIL_ANALYSES",NA,2041,NA,"SMHB","SOIL ANALYSIS",2403
+"soil_analys_meth_pH_buff","character","","soil_analys_meth_ph_buff","","","Soil anlysis method for pH in buffer solution","SAMHB","SAMHB",6,NA,"code","text","EXPERIMENT","MANAGEMENT","SOIL_ANALYSES",NA,2041,NA,"SMHB","SOIL ANALYSIS",2403
 "soil_anal_meth_P_extract","character","","","","","Soil analysis method for P extraction","SAMPX","SAMPX",7,NA,"code","text","EXPERIMENT","MANAGEMENT","SOIL_ANALYSES",NA,2041,NA,"SMPX","SOIL ANALYSIS",2404
-"soil_anal_meth_exch_K","character","","","","","Soil analysis method for exchangeable K","SAMKE","SAMKE",8,NA,"code","text","EXPERIMENT","MANAGEMENT","SOIL_ANALYSES",NA,2041,NA,"SMKE","SOIL ANALYSIS",2405
+"soil_anal_meth_exch_K","character","","k_extraction_method","","","Soil analysis method for exchangeable K","SAMKE","SAMKE",8,NA,"code","text","EXPERIMENT","MANAGEMENT","SOIL_ANALYSES",NA,2041,NA,"SMKE","SOIL ANALYSIS",2405
 "soil_anal_meth_exch_Ca","character","","","","","Soil analysis method for Calcium, exchangeable","SAMCAE","SAMCAE",9,NA,"code","text","EXPERIMENT","MANAGEMENT","SOIL_ANALYSES",NA,2041,NA,NA,NA,NA
 "soil_anal_meth_exch_Mg","character","","","","","Soil analysis method for Magnesium, exchangeable","SAMMGE","SAMMGE",10,NA,"code","text","EXPERIMENT","MANAGEMENT","SOIL_ANALYSES",NA,2041,NA,NA,NA,NA
 "soil_anal_meth_extract_S","character","","","","","Soil analysis method for Sulfur, extractable","SAMSE","SAMSE",11,NA,"code","text","EXPERIMENT","MANAGEMENT","SOIL_ANALYSES",NA,2041,NA,NA,NA,NA
@@ -170,7 +170,7 @@
 "initial_Ntot_layer","numeric","kg[N]/ha","","0","","Initial inorganic N amount, by layer","ICN_TOT","ICN_TOT",9,NA,"kg[N]/ha","single","EXPERIMENT","MANAGEMENT","INITIAL_CONDITIONS","INITIAL_CONDITION_LAYER",2052,NA,".",NA,NA
 "initial_soil_stable_C","numeric","%","","","","Stable organic carbon by layer, expressed as g[C]/100g[soil]","ICSC","ICSC",10,NA,"%","single","EXPERIMENT","MANAGEMENT","INITIAL_CONDITIONS","INITIAL_CONDITION_LAYER",2052,NA,".",NA,NA
 "initial_soil_temperature","numeric","degree_C","","","","Initial soil temperature","ICSLT","ICSLT",11,NA,"degree_C","single","EXPERIMENT","MANAGEMENT","INITIAL_CONDITIONS","INITIAL_CONDITION_LAYER",2052,NA,NA,NA,NA
-"mgmt_operations_event","character","","","","","Management operations event type","MGMT_EVENT","MGMT_EVENT",0,NA,"code","text","EXPERIMENT","MANAGEMENT","EVENT_SPECIFICATION",NA,2060,"2020-05-05, CHP",NA,NA,NA
+"mgmt_operations_event","character","","management_event_type","","","Management operations event type","MGMT_EVENT","MGMT_EVENT",0,NA,"code","text","EXPERIMENT","MANAGEMENT","EVENT_SPECIFICATION",NA,2060,"2020-05-05, CHP",NA,NA,NA
 "mgmt_event_date","character","date","","1","","Management operations event date","EVDATE","EVDATE",1,NA,"date","single","EXPERIMENT","MANAGEMENT","EVENT_SPECIFICATION",NA,2060,"2020-05-05, CHP",NA,NA,NA
 "mgmt_event_notes","character","","","","","Management operations event notes","EV_NOTES","EV_NOTES",10,NA,"text","text","EXPERIMENT","MANAGEMENT","EVENT_SPECIFICATION",NA,2060,"2020-05-05, CHP",NA,NA,NA
 "id","numeric","","","","","id","id","id",0,1,NA,"single","EXPERIMENT","MANAGEMENT","PLANTINGS",NA,2061,NA,NA,NA,NA
@@ -186,9 +186,9 @@
 "emergence_day","numeric","","","1","","Day of year for date of emergence","PLDOE","PLDOE",10,NA,"number","single","EXPERIMENT","MANAGEMENT","PLANTINGS",NA,2061,NA,NA,NA,NA
 "plant_pop_at_planting","numeric","/m2","","0","","Plant population at planting","PLPOP","PLPOP",11,NA,"number/m2","single","EXPERIMENT","MANAGEMENT","PLANTINGS",NA,2061,NA,"PPOP","PLANTINGS",2604
 "plant_pop_at_emergence","numeric","/m2","","0","","Plant population at emergence","PLPOE","PLPOE",12,NA,"number/m2","single","EXPERIMENT","MANAGEMENT","PLANTINGS",NA,2061,NA,"PPOE","PLANTINGS",2605
-"planting_material","character","","","","","Planting material","PLMA","PLMA",13,NA,"code","text","EXPERIMENT","MANAGEMENT","PLANTINGS",NA,2061,NA,".",NA,NA
+"planting_material","character","","planting_material","","","Planting material","PLMA","PLMA",13,NA,"code","text","EXPERIMENT","MANAGEMENT","PLANTINGS",NA,2061,NA,".",NA,NA
 "planting_method","character","","","","","Planting method","PLME","PLME",14,NA,"code","text","EXPERIMENT","MANAGEMENT","PLANTINGS",NA,2061,NA,"PLME","PLANTINGS",2606
-"planting_distribution","character","","","","","Planting distribution","PLDS","PLDS",15,NA,"code","text","EXPERIMENT","MANAGEMENT","PLANTINGS",NA,2061,NA,"PLDS","PLANTINGS",2607
+"planting_distribution","character","","planting_distribution","","","Planting distribution","PLDS","PLDS",15,NA,"code","text","EXPERIMENT","MANAGEMENT","PLANTINGS",NA,2061,NA,"PLDS","PLANTINGS",2607
 "row_spacing","numeric","cm","","0","","Distance between two adjacent rows","PLRS","PLRS",16,NA,"cm","single","EXPERIMENT","MANAGEMENT","PLANTINGS",NA,2061,NA,"PLRS","PLANTINGS",2608
 "plant_spacing","numeric","cm","","0","","Spacing of plants in a row","PLSP","PLSP",17,NA,"cm","single","EXPERIMENT","MANAGEMENT","PLANTINGS",NA,2061,"2018-10-30 chp",".",NA,NA
 "row_direction","numeric","degrees","","0","359","Row direction, degrees from N","PLRD","PLRD",18,NA,"arc_degrees","single","EXPERIMENT","MANAGEMENT","PLANTINGS",NA,2061,NA,"PLRD, PLOR","PLANTINGS",2609
@@ -208,7 +208,7 @@
 "irrigation_level","numeric","","","","","Irrigation level in treatment structure","IR","IR",1,NA,"number","single","EXPERIMENT","MANAGEMENT","IRRIGATIONS",NA,2071,NA,"MI","IRRIGATION AND WATER MANAGEMENT",2701
 "irrigation_level_name","character","","","","","Irrigation level name","IR_NAME","IR_NAME",2,NA,"text","text","EXPERIMENT","MANAGEMENT","IRRIGATIONS",NA,2071,NA,"IRNAME","IRRIGATION AND WATER MANAGEMENT",2709
 "irrigation_notes","character","","","","","Irrigation, notes on irrigation application","IR_NOTES","IR_NOTES",3,NA,"text","text","EXPERIMENT","MANAGEMENT","IRRIGATIONS",NA,2071,NA,NA,NA,NA
-"irrig_applied","character","","","","","Indicates whether or not the field was irrigated","IRRIG","IRRIG",11,NA,"code","text","EXPERIMENT","MANAGEMENT","IRRIGATIONS",NA,2071,NA,NA,NA,NA
+"irrig_applied","character","","irrig_applied","","","Indicates whether or not the field was irrigated","IRRIG","IRRIG",11,NA,"code","text","EXPERIMENT","MANAGEMENT","IRRIGATIONS",NA,2071,NA,NA,NA,NA
 "irrigation_season","numeric","mm","","0","","Irrigation, total amount over season","IR_TOT","IR_TOT",21,NA,"mm","single","EXPERIMENT","MANAGEMENT","IRRIGATIONS",NA,2071,"Use when detailed irrigation information is lacking",NA,NA,NA
 "irrigation_applics_season","numeric","","","","","Irrigation applications, total number at end season","IR_#","IR_no",22,NA,"number","single","EXPERIMENT","MANAGEMENT","IRRIGATIONS",NA,2071,"Use when detailed irrigation information is lacking",".",NA,NA
 "irrigation_date","character","date","","1","99365","Irrigation date","IDATE","IDATE",-99,NA,"date","single","EXPERIMENT","MANAGEMENT","IRRIGATIONS","IRRIGATION_APPLICATIONS",2072,NA,"IDATE","IRRIGATION AND WATER MANAGEMENT",2752
@@ -289,7 +289,7 @@
 "org_materials_applic_lev","numeric","","","","","Organic materials application level, links to OM table","OM","OM",1,NA,"number","single","EXPERIMENT","MANAGEMENT","ORGANIC_MATERIALS","ORGANIC_MATERIAL_APPLICS",2092,NA,"MR","RESIDUES AND ORGANIC FERTILIZER",2901
 "org_materials_applic_yr","numeric","year","","","","Organic materials application year","OMYR","OMYR",3,1,"year","single","EXPERIMENT","MANAGEMENT","ORGANIC_MATERIALS","ORGANIC_MATERIAL_APPLICS",2092,NA,".",NA,NA
 "org_material_applic_day","numeric","doy","","0","366","Organic materials application day","OMDAY","OMDAY",4,1,"doy","single","EXPERIMENT","MANAGEMENT","ORGANIC_MATERIALS","ORGANIC_MATERIAL_APPLICS",2092,NA,".",NA,NA
-"organic_material","character","","","","","Organic material, identifying code","OMCD","OMCD",5,NA,"code","text","EXPERIMENT","MANAGEMENT","ORGANIC_MATERIALS","ORGANIC_MATERIAL_APPLICS",2092,NA,"RCOD","RESIDUES AND ORGANIC FERTILIZER",2903
+"organic_material","character","","residues_or_organic_materials","","","Organic material, identifying code","OMCD","OMCD",5,NA,"code","text","EXPERIMENT","MANAGEMENT","ORGANIC_MATERIALS","ORGANIC_MATERIAL_APPLICS",2092,NA,"RCOD","RESIDUES AND ORGANIC FERTILIZER",2903
 "org_material_applic_meth","character","","","","","Organic materials application method","OMACD","OMACD",6,NA,"code","text","EXPERIMENT","MANAGEMENT","ORGANIC_MATERIALS","ORGANIC_MATERIAL_APPLICS",2092,NA,"RMET","RESIDUES AND ORGANIC FERTILIZER",2912
 "org_material_appl_depth","numeric","cm","","0","","Organic materials application depth","OMDEP","OMDEP",7,NA,"cm","single","EXPERIMENT","MANAGEMENT","ORGANIC_MATERIALS","ORGANIC_MATERIAL_APPLICS",2092,NA,"RDEP","RESIDUES AND ORGANIC FERTILIZER",2911
 "org_material_incorp_perc","numeric","%","","0","100","Organic materials application, fraction incorporporated as %","OMINP","OMINP",8,NA,"%","single","EXPERIMENT","MANAGEMENT","ORGANIC_MATERIALS","ORGANIC_MATERIAL_APPLICS",2092,NA,"RINP","RESIDUES AND ORGANIC FERTILIZER",2910
@@ -315,7 +315,7 @@
 "mulch_type","character","","","","","Mulch type by codes for soild polythelene sheet, net, etc.","MLTP","MLTP",5,NA,"code","text","EXPERIMENT","MANAGEMENT","MULCHES","MULCH_ADD",2102,"Vers 1.1",NA,NA,NA
 "mulch_thickness","numeric","mm","","0","","Mulch thickness","MLTHK","MLTHK",6,NA,"mm","single","EXPERIMENT","MANAGEMENT","MULCHES","MULCH_ADD",2102,"Vers 1.1",NA,NA,NA
 "mulch_cover_fraction","numeric","fraction","","0","","Fraction of surface covered by mulch","MLCOV","MLCOV",7,NA,"fraction","single","EXPERIMENT","MANAGEMENT","MULCHES","MULCH_ADD",2102,"2015-12-15, chp",NA,NA,NA
-"mulch_color","character","","","","","Mulch color","MLCOL","MLCOL",8,NA,"code","text","EXPERIMENT","MANAGEMENT","MULCHES","MULCH_ADD",2102,"Vers 1.1",NA,NA,NA
+"mulch_color","character","","mulch_color","","","Mulch color","MLCOL","MLCOL",8,NA,"code","text","EXPERIMENT","MANAGEMENT","MULCHES","MULCH_ADD",2102,"Vers 1.1",NA,NA,NA
 "mulch_removal_date","character","date","","1","366","Mulch removal date","MLRDAT","MLRDAT",2,NA,"date","single","EXPERIMENT","MANAGEMENT","MULCHES","MULCH_REMOVE",2103,"Vers 1.2",NA,NA,NA
 "mulch_level","numeric","","","","","Mulch treatment level","ML","ML",1,NA,"number","single","EXPERIMENT","MANAGEMENT","MULCHES","MULCH_REMOVE",2103,"Vers 1.2",NA,NA,NA
 "mulch_removal_year","numeric","year","","","","Mulch removal year","MLRYR","MLRYR",5,NA,"year","single","EXPERIMENT","MANAGEMENT","MULCHES","MULCH_REMOVE",2103,"Vers 1.2",NA,NA,NA
@@ -330,7 +330,7 @@
 "chemical_applic_level","numeric","","","","","Chemicals application level, liks to CHEMICALS table","CH","CH",1,NA,"number","single","EXPERIMENT","MANAGEMENT","CHEMICALS","CHEMICAL_APPLICS",2112,NA,"MC","CHEMICAL APPLICATIONS",3101
 "chemical_applic_year","numeric","year","","","","Chemicals application year","CHYR","CHYR",3,1,"year","single","EXPERIMENT","MANAGEMENT","CHEMICALS","CHEMICAL_APPLICS",2112,NA,NA,NA,NA
 "chemical_applic_day","numeric","day","","0","366","Chemicals application day of year or DAP if year = -99","CHDAY","CHDAY",4,1,"day","single","EXPERIMENT","MANAGEMENT","CHEMICALS","CHEMICAL_APPLICS",2112,NA,NA,NA,NA
-"chemical_applic_material","character","","","","","Chemicals application material","CHCD","CHCD",5,NA,"code","text","EXPERIMENT","MANAGEMENT","CHEMICALS","CHEMICAL_APPLICS",2112,NA,"CHCOD","CHEMICAL APPLICATIONS",3103
+"chemical_applic_material","character","","chemicals","","","Chemicals application material","CHCD","CHCD",5,NA,"code","text","EXPERIMENT","MANAGEMENT","CHEMICALS","CHEMICAL_APPLICS",2112,NA,"CHCOD","CHEMICAL APPLICATIONS",3103
 "chemical_applic_method","character","","","","","Chemicals application method","CHACD","CHACD",6,NA,"code","text","EXPERIMENT","MANAGEMENT","CHEMICALS","CHEMICAL_APPLICS",2112,NA,"CHME","CHEMICAL APPLICATIONS",3105
 "application_depth_chem","numeric","cm","","0","","Chemicals application depth","CHDEP","CHDEP",7,NA,"cm","single","EXPERIMENT","MANAGEMENT","CHEMICALS","CHEMICAL_APPLICS",2112,NA,"CHDEP","CHEMICAL APPLICATIONS",3106
 "chemical_applic_amount","numeric","kg/ha","","0","","Chemicals application amount (active)","CHAMT","CHAMT",8,NA,"kg/ha","single","EXPERIMENT","MANAGEMENT","CHEMICALS","CHEMICAL_APPLICS",2112,NA,"CHAMT","CHEMICAL APPLICATIONS",3104
@@ -348,7 +348,7 @@
 "tillage_operations_day","numeric","day","","0","366","Tillage operations day","TIDAY","TIDAY",4,1,"day","single","EXPERIMENT","MANAGEMENT","TILLAGE","TILLAGE_EVENTS",2122,NA,".",NA,NA
 "tillage_operation_name","character","","","","","Tillage operations, name of specific event","TI_OP_NAME","TI_OP_NAME",5,NA,"text","text","EXPERIMENT","MANAGEMENT","TILLAGE","TILLAGE_EVENTS",2122,NA,"TNAME","TILLAGE AND ROTATIONS",3205
 "tillage_order","numeric","","","1","","Tillage operations order within a single day","TIORD","TIORD",6,NA,"number","single","EXPERIMENT","MANAGEMENT","TILLAGE","TILLAGE_EVENTS",2122,NA,".",NA,NA
-"tillage_implement","character","","","","","Tillage implement","TIIMP","TIIMP",7,NA,"code","text","EXPERIMENT","MANAGEMENT","TILLAGE","TILLAGE_EVENTS",2122,NA,"TIMPL","TILLAGE AND ROTATIONS",3203
+"tillage_implement","character","","tillage_implements","","","Tillage implement","TIIMP","TIIMP",7,NA,"code","text","EXPERIMENT","MANAGEMENT","TILLAGE","TILLAGE_EVENTS",2122,NA,"TIMPL","TILLAGE AND ROTATIONS",3203
 "tillage_operations_depth","numeric","cm","","0","200","Tillage operations depth","TIDEP","TIDEP",8,NA,"cm","single","EXPERIMENT","MANAGEMENT","TILLAGE","TILLAGE_EVENTS",2122,NA,"TDEP, TLDD","TILLAGE AND ROTATIONS",3204
 "till_mix_effectiveness","numeric","%","","0","100","Tillage operations mixing effectiveness","TIMIX","TIMIX",9,NA,"%","single","EXPERIMENT","MANAGEMENT","TILLAGE","TILLAGE_EVENTS",2122,NA,".",NA,NA
 "till_disturb_ratio","numeric","fraction","","0","30","Tillage operations soil disturbance ratio, a relative value that indicates the extent to which the tillage operation speeds up decomposition rate of the soil microbial biomass and stabilized soil C pools.","TIDIS","TIDIS",10,NA,"fraction","single","EXPERIMENT","MANAGEMENT","TILLAGE","TILLAGE_EVENTS",2122,"2018-06-19 chp",".",NA,NA
@@ -390,13 +390,13 @@
 "harvest_crop","character","","","","","Harvest operations, crop harvested","HACR","HACR",5,NA,"code","text","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,"2016-04-04, CHP",".",NA,NA
 "harvest_stage","character","","","","","Harvest, growth stage of crop at date","HASTG","HASTG",6,NA,"code","text","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,"HSTG","HARVEST DETAILS",3403
 "harvested_crop","character","","crop","","","Crop species harvested","HACRID","HACRID",7,NA,"code","text","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,".",NA,NA
-"harvest_operat_component","character","","","","","Harvest operations, crop component harvested","HACOM","HACOM",8,NA,"code","text","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,"HCOM","HARVEST DETAILS",3404
+"harvest_operat_component","character","","harvest_components","","","Harvest operations, crop component harvested","HACOM","HACOM",8,NA,"code","text","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,"HCOM","HARVEST DETAILS",3404
 "harvest_method","character","","","","","Harvest method","HARM","HARM",9,NA,"code","text","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,NA,NA,NA
 "harvest_area","numeric","m2","","0","","Actual plot area harvested (sometimes differs from planned area)","HAREA","HAREA",10,NA,"m2","single","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,"2019-09-12, chp - changed to ha",NA,NA,NA
 "harvest_amount","numeric","kg/ha","","","","Harvest, total amount removed as mass","HAMT","HAMT",11,NA,"kg/ha","single","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,"2013-03-06, JWW",NA,NA,NA
 "harv_operat_main_product","numeric","%","","0","100","Harvest operations, percent economic product harvested","HAP%","HAPPC",12,NA,"%","single","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,"HPC","HARVEST DETAILS",3406
 "harv_operation_byproduct","numeric","%","","0","100","Harvest operations, percent of by-product harvested","HAB%","HABPC",13,NA,"%","single","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,"HBPC","HARVEST DETAILS",3407
-"harv_operat_size_categor","character","","","","","Harvest operations size category","HASIZ","HASIZ",14,NA,"code","text","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,"HSIZE","HARVEST DETAILS",3405
+"harv_operat_size_categor","character","","harvest_size","","","Harvest operations size category","HASIZ","HASIZ",14,NA,"code","text","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,NA,"HSIZE","HARVEST DETAILS",3405
 "harvest_cut_height","numeric","cm","","","","Harvest, height of cut","HAHT","HAHT",15,NA,"cm","single","EXPERIMENT","MANAGEMENT","HARVESTS","HARVEST_EVENTS",2142,"2013-03-06, JWW",NA,NA,NA
 "simulation_start_date","character","date","","1","99365","Simulation start date","SDAT","SDAT",2,NA,"date","single","EXPERIMENT","MANAGEMENT","SIMULATION_CONTROLS",NA,2211,NA,".",NA,NA
 "simulation_end_date","character","date","","1","99365","Simulation end date","ENDAT","ENDAT",3,NA,"date","single","EXPERIMENT","MANAGEMENT","SIMULATION_CONTROLS",NA,2211,"2013-02-07, JWW",".",NA,NA

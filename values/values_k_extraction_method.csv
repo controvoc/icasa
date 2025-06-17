@@ -1,6 +1,6 @@
 "name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
-"SA201","K extraction method","SAMKE","NH4OAc",NA,NA,1
-"SA202","K extraction method","SAMKE","Mehlich 1 (1:5)","I (1:5)",NA,1
-"SA203","K extraction method","SAMKE","Mehlich 1 (1:10)","I (1:10)",NA,1
-"SA204","K extraction method","SAMKE","Mehlich 3","3",NA,1
-"SA299","K extraction method","SAMKE","Method unknown/not given",NA,NA,NA
+"SA201","k_extraction_method","SAMKE","NH4OAc",NA,NA,1
+"SA202","k_extraction_method","SAMKE","Mehlich 1 (1:5)","I (1:5)",NA,1
+"SA203","k_extraction_method","SAMKE","Mehlich 1 (1:10)","I (1:10)",NA,1
+"SA204","k_extraction_method","SAMKE","Mehlich 3","3",NA,1
+"SA299","k_extraction_method","SAMKE","Method unknown/not given",NA,NA,NA

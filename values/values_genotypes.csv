@@ -1,9 +1,9 @@
 "name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
-"CA","GENOTYPES","CROP_USE","cash crop",NA,"2023-03-06, chp",3
-"CO","GENOTYPES","CROP_USE","cover crop",NA,"2023-03-06, chp",3
-"GM","GENOTYPES","CROP_USE","green manure",NA,"2023-03-06, chp",3
-"DU","GENOTYPES","CROP_USE","dual purpose",NA,"2023-03-06, chp",3
-"SP","GENOTYPES","CROP_USE","propagation of seed or vegetative material",NA,"2023-03-06, chp",3
-"GR","GENOTYPES","CROP_USE","grain",NA,"2023-04-04, chp",3
-"SI","GENOTYPES","CROP_USE","silage",NA,"2023-04-04, chp",3
-"OT","GENOTYPES","CROP_USE","other",NA,"2023-03-06, chp",3
+"CA","genotypes","CROP_USE","cash crop",NA,"2023-03-06, chp",3
+"CO","genotypes","CROP_USE","cover crop",NA,"2023-03-06, chp",3
+"GM","genotypes","CROP_USE","green manure",NA,"2023-03-06, chp",3
+"DU","genotypes","CROP_USE","dual purpose",NA,"2023-03-06, chp",3
+"SP","genotypes","CROP_USE","propagation of seed or vegetative material",NA,"2023-03-06, chp",3
+"GR","genotypes","CROP_USE","grain",NA,"2023-04-04, chp",3
+"SI","genotypes","CROP_USE","silage",NA,"2023-04-04, chp",3
+"OT","genotypes","CROP_USE","other",NA,"2023-03-06, chp",3

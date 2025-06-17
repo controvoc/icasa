@@ -1,8 +1,8 @@
 "name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
-"HM001","Harvest method","HARM, PLTHM","Combined",NA,NA,NA
-"HM002","Harvest method","HARM, PLTHM","Hand cut, machine threshed",NA,NA,NA
-"HM003","Harvest method","HARM, PLTHM","Hand cut, hand threshed",NA,NA,NA
-"HM004","Harvest method","HARM, PLTHM","Hand picked, no further processing",NA,NA,NA
-"HM005","Harvest method","HARM, PLTHM","Hand picked, machine processing",NA,NA,NA
-"HM006","Harvest method","HARM, PLTHM","Cotton stripper",NA,NA,NA
-"HM999","Harvest method","HARM, PLTHM","Method unknown/not given",NA,NA,NA
+"HM001","harvest_method","HARM, PLTHM","Combined",NA,NA,NA
+"HM002","harvest_method","HARM, PLTHM","Hand cut, machine threshed",NA,NA,NA
+"HM003","harvest_method","HARM, PLTHM","Hand cut, hand threshed",NA,NA,NA
+"HM004","harvest_method","HARM, PLTHM","Hand picked, no further processing",NA,NA,NA
+"HM005","harvest_method","HARM, PLTHM","Hand picked, machine processing",NA,NA,NA
+"HM006","harvest_method","HARM, PLTHM","Cotton stripper",NA,NA,NA
+"HM999","harvest_method","HARM, PLTHM","Method unknown/not given",NA,NA,NA

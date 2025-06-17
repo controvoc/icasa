@@ -1,151 +1,151 @@
 "name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
-"MG","Fertilizers","FEOCD, FEOCD_TOT","Magnesium",NA,NA,1
-"MN","Fertilizers","FEOCD, FEOCD_TOT","Manganese",NA,NA,1
-"CA","Fertilizers","FEOCD, FEOCD_TOT","Calcium",NA,NA,1
-"CD","Fertilizers","FEOCD, FEOCD_TOT","Cadmium",NA,NA,1
-"ZN","Fertilizers","FEOCD, FEOCD_TOT","Zinc",NA,NA,1
-"S","Fertilizers","FEOCD, FEOCD_TOT","Sulfur",NA,NA,1
-"FE","Fertilizers","FEOCD, FEOCD_TOT","Iron",NA,NA,1
-"SE","Fertilizers","FEOCD, FEOCD_TOT","Selenium",NA,NA,1
-"B","Fertilizers","FEOCD, FEOCD_TOT","Boron",NA,NA,NA
-"FE001","Fertilizers","FECD, FE_CD","Ammonium nitrate",NA,NA,1
-"FE002","Fertilizers","FECD, FE_CD","Ammonium sulfate",NA,NA,1
-"FE003","Fertilizers","FECD, FE_CD","Ammonium nitrate sulfate",NA,NA,1
-"FE004","Fertilizers","FECD, FE_CD","Anhydrous ammonia",NA,NA,1
-"FE005","Fertilizers","FECD, FE_CD","Urea",NA,NA,1
-"FE006","Fertilizers","FECD, FE_CD","Diammonium phosphate (DAP)",NA,NA,1
-"FE007","Fertilizers","FECD, FE_CD","Monoammonium phosphate (MAP)",NA,NA,1
-"FE008","Fertilizers","FECD, FE_CD","Calcium nitrate",NA,NA,1
-"FE009","Fertilizers","FECD, FE_CD","Aqua ammonia",NA,NA,1
-"FE010","Fertilizers","FECD, FE_CD","Urea ammonium nitrate",NA,NA,1
-"FE011","Fertilizers","FECD, FE_CD","Calcium ammonium nitrate",NA,NA,1
-"FE012","Fertilizers","FECD, FE_CD","Ammonium poly-phosphate",NA,NA,1
-"FE013","Fertilizers","FECD, FE_CD","Single super phosphate",NA,NA,1
-"FE014","Fertilizers","FECD, FE_CD","Triple super phosphate (TSP)",NA,NA,1
-"FE015","Fertilizers","FECD, FE_CD","Liquid phosphoric acid",NA,NA,1
-"FE016","Fertilizers","FECD, FE_CD","Potassium chloride (muriate of potash, MOP)",NA,NA,1
-"FE017","Fertilizers","FECD, FE_CD","Potassium nitrate (nitrate of potash)",NA,NA,1
-"FE018","Fertilizers","FECD, FE_CD","Potassium sulfate",NA,NA,1
-"FE019","Fertilizers","FECD, FE_CD","Urea super granules",NA,NA,1
-"FE020","Fertilizers","FECD, FE_CD","Dolomitic limestone",NA,NA,1
-"FE021","Fertilizers","FECD, FE_CD","Rock phosphate",NA,NA,1
-"FE022","Fertilizers","FECD, FE_CD","Calcitic limestone",NA,NA,1
-"FE023","Fertilizers","FECD, FE_CD","Urea ammonium sulfate",NA,NA,1
-"FE024","Fertilizers","FECD, FE_CD","Rhizobium",NA,NA,1
-"FE026","Fertilizers","FECD, FE_CD","Calcium hydroxide (hydrated lime)",NA,NA,1
-"FE027","Fertilizers","FECD, FE_CD","NPK - ammonium nitrate",NA,"2020-06-25, chp",3
-"FE028","Fertilizers","FECD, FE_CD","NPK - urea",NA,"2020-06-25, chp",3
-"FE029","Fertilizers","FECD, FE_CD","NPK - ammonium nitrate urea",NA,"2020-06-25, chp",3
-"FE030","Fertilizers","FECD, FE_CD","NPK - user blend",NA,"2020-06-25, chp",3
-"FE036","Fertilizers","FECD, FE_CD","32% UAN (35% urea + 45% A.N.)",NA,"2020-06-25, chp",3
-"FE037","Fertilizers","FECD, FE_CD","30% UAN (33% urea + 42% A.N.)",NA,"2020-06-25, chp",3
-"FE038","Fertilizers","FECD, FE_CD","28% UAN (30% urea + 40% A.N.)",NA,"2020-06-25, chp",3
-"FE039","Fertilizers","FECD, FE_CD","21% AN (60% A.N. + 40% water)",NA,"2020-06-25, chp",3
-"FE040","Fertilizers","FECD, FE_CD","19% AN (54% A.N. + 46% water)",NA,"2020-06-25, chp",3
-"FE041","Fertilizers","FECD, FE_CD","Ammonium nitrate limestone",NA,"2020-06-25, chp",3
-"FE042","Fertilizers","FECD, FE_CD","Ammonionated super phosphate",NA,"2020-06-25, chp",3
-"FE043","Fertilizers","FECD, FE_CD","Ammonium phosphate nitrate",NA,"2020-06-25, chp",3
-"FE044","Fertilizers","FECD, FE_CD","Ammonium phosphate sulfate",NA,"2020-06-25, chp",3
-"FE045","Fertilizers","FECD, FE_CD","Urea ammonium phosphate",NA,"2020-06-25, chp",3
-"FE046","Fertilizers","FECD, FE_CD","Urea phosphate",NA,"2020-06-25, chp",3
-"FE050","Fertilizers","FECD, FE_CD","Calcium cyanamide",NA,"2020-06-25, chp",3
-"FE051","Fertilizers","FECD, FE_CD","Calcium nitrate-urea",NA,"2020-06-25, chp",3
-"FE055","Fertilizers","FECD, FE_CD","Sodium nitrate",NA,"2020-06-25, chp",3
-"FE056","Fertilizers","FECD, FE_CD","Magnesium nitrate",NA,"2020-06-25, chp",3
-"FE057","Fertilizers","FECD, FE_CD","Ammonium thiosulfate** (60% solution)",NA,"2020-06-25, chp",3
-"FE058","Fertilizers","FECD, FE_CD","Ammonium polysulfide",NA,"2020-06-25, chp",3
-"FE059","Fertilizers","FECD, FE_CD","Ammonium sulfate solution",NA,"2020-06-25, chp",3
-"FE060","Fertilizers","FECD, FE_CD","Ammonium sulfate - nitrate",NA,"2020-06-25, chp",3
-"FE061","Fertilizers","FECD, FE_CD","Ferrous ammonium sulfate",NA,"2020-06-25, chp",3
-"FE062","Fertilizers","FECD, FE_CD","Liquid ammonium polyphosphate",NA,"2020-06-25, chp",3
-"FE063","Fertilizers","FECD, FE_CD","Nitric phosphate",NA,"2020-06-25, chp",3
-"FE064","Fertilizers","FECD, FE_CD","Nitric acid",NA,"2020-06-25, chp",3
-"FE065","Fertilizers","FECD, FE_CD","Urea solution",NA,"2020-06-25, chp",3
-"FE066","Fertilizers","FECD, FE_CD","Zinc ammonium sulfate solution",NA,"2020-06-25, chp",3
-"FE067","Fertilizers","FECD, FE_CD","Zinc manganese ammonium sulfate",NA,"2020-06-25, chp",3
-"FE068","Fertilizers","FECD, FE_CD","Ammonium metaphosphate",NA,"2020-06-25, chp",3
-"FE069","Fertilizers","FECD, FE_CD","Ammonium phosphate",NA,"2020-06-25, chp",3
-"FE070","Fertilizers","FECD, FE_CD","Potassium - sodium nitrate",NA,"2020-06-25, chp",3
-"FE201","Fertilizers","FECD, FE_CD","ESN",NA,"2020-06-25, chp",3
-"FE202","Fertilizers","FECD, FE_CD","NBTPT",NA,"2020-06-25, chp",3
-"FE203","Fertilizers","FECD, FE_CD","DCD (dicyandiamide)",NA,"2020-06-25, chp",3
-"FE204","Fertilizers","FECD, FE_CD","SuperU",NA,"2020-06-25, chp",3
-"FE205","Fertilizers","FECD, FE_CD","DMPP (3,4-Dimethylpyrazole phosphate)",NA,"2020-06-25, chp",3
-"FE206","Fertilizers","FECD, FE_CD","Sulfur coated urea (thin coat)",NA,"2020-06-25, chp",3
-"FE207","Fertilizers","FECD, FE_CD","Sulfur coated urea (thick coat)",NA,"2020-06-25, chp",3
-"FE208","Fertilizers","FECD, FE_CD","ESN + NBTPT",NA,"2020-06-25, chp",3
-"FE209","Fertilizers","FECD, FE_CD","Ureaform (urea + formaldehyde)",NA,"2020-06-25, chp",3
-"FE210","Fertilizers","FECD, FE_CD","Crotonylidene diurea (CDU)",NA,"2020-06-25, chp",3
-"FE211","Fertilizers","FECD, FE_CD","Isobutylidene diurea (IBDU)",NA,"2020-06-25, chp",3
-"FE212","Fertilizers","FECD, FE_CD","Methylene ureas",NA,"2020-06-25, chp",3
-"FE300","Fertilizers","FECD, FE_CD","Mono potassium phosphate (MKP)",NA,"2020-06-25, chp",3
-"FE301","Fertilizers","FECD, FE_CD","Superphosphoric acid",NA,"2020-06-25, chp",3
-"FE302","Fertilizers","FECD, FE_CD","Calcium metaphosphate",NA,"2020-06-25, chp",3
-"FE303","Fertilizers","FECD, FE_CD","Potassium metaphosphate",NA,"2020-06-25, chp",3
-"FE304","Fertilizers","FECD, FE_CD","Precipitated phosphate",NA,"2020-06-25, chp",3
-"FE305","Fertilizers","FECD, FE_CD","Magnesium ammonium phosphate (struvite)",NA,"2020-06-25, chp",3
-"FE306","Fertilizers","FECD, FE_CD","Bone meal (steamed)",NA,"2020-06-25, chp",3
-"FE307","Fertilizers","FECD, FE_CD","Superphosphate, enriched",NA,"2020-06-25, chp",3
-"FE308","Fertilizers","FECD, FE_CD","Basic Lime phosphate",NA,"2020-06-25, chp",3
-"FE309","Fertilizers","FECD, FE_CD","Magnesium phosphate",NA,"2020-06-25, chp",3
-"FE310","Fertilizers","FECD, FE_CD","Limestone, phosphatic",NA,"2020-06-25, chp",3
-"FE311","Fertilizers","FECD, FE_CD","Basic slag",NA,"2020-06-25, chp",3
-"FE312","Fertilizers","FECD, FE_CD","Colloidal phosphate (Soft)",NA,"2020-06-25, chp",3
-"FE400","Fertilizers","FECD, FE_CD","Potash suspensions",NA,"2020-06-25, chp",3
-"FE401","Fertilizers","FECD, FE_CD","Potassium carbonate K2CO3 solid",NA,"2020-06-25, chp",3
-"FE402","Fertilizers","FECD, FE_CD","Potassium carbonate K2CO3 liquid",NA,"2020-06-25, chp",3
-"FE403","Fertilizers","FECD, FE_CD","Potassium magnesium sulfate**",NA,"2020-06-25, chp",3
-"FE404","Fertilizers","FECD, FE_CD","Manure salts",NA,"2020-06-25, chp",3
-"FE405","Fertilizers","FECD, FE_CD","Kainite KMg(SO4)Cl·3H2O",NA,"2020-06-25, chp",3
-"FE406","Fertilizers","FECD, FE_CD","Carnallite (hydrated potassium magnesium chloride)",NA,"2020-06-25, chp",3
-"FE407","Fertilizers","FECD, FE_CD","Lime-potash mixtures",NA,"2020-06-25, chp",3
-"FE408","Fertilizers","FECD, FE_CD","Greensand",NA,"2020-06-25, chp",3
-"FE500","Fertilizers","FECD, FE_CD","Wettable S",NA,"2020-06-25, chp",3
-"FE501","Fertilizers","FECD, FE_CD","Flowable S",NA,"2020-06-25, chp",3
-"FE502","Fertilizers","FECD, FE_CD","Flowers of S",NA,"2020-06-25, chp",3
-"FE503","Fertilizers","FECD, FE_CD","Gypsum",NA,"2020-06-25, chp",3
-"FE504","Fertilizers","FECD, FE_CD","Magnesium sulfate (epsom salt)",NA,"2020-06-25, chp",3
-"FE505","Fertilizers","FECD, FE_CD","Magnesium sulfate (Kieserite)",NA,"2020-06-25, chp",3
-"FE506","Fertilizers","FECD, FE_CD","Sulfuric acid",NA,"2020-06-25, chp",3
-"FE507","Fertilizers","FECD, FE_CD","Copper sulfate",NA,"2020-06-25, chp",3
-"FE508","Fertilizers","FECD, FE_CD","Aluminum sulfate",NA,"2020-06-25, chp",3
-"FE509","Fertilizers","FECD, FE_CD","Cobalt sulfate",NA,"2020-06-25, chp",3
-"FE510","Fertilizers","FECD, FE_CD","Ferric sulfate",NA,"2020-06-25, chp",3
-"FE511","Fertilizers","FECD, FE_CD","Ferrous sulfate",NA,"2020-06-25, chp",3
-"FE512","Fertilizers","FECD, FE_CD","Calcium sulfate (hydrous)",NA,"2020-06-25, chp",3
-"FE513","Fertilizers","FECD, FE_CD","Lime sulfur solution",NA,"2020-06-25, chp",3
-"FE600","Fertilizers","FECD, FE_CD","Magnesia (Magnesium oxide)",NA,"2020-07-22, chp",3
-"FE601","Fertilizers","FECD, FE_CD","Brucite (Magnesium hydroxide)",NA,"2020-07-22, chp",3
-"FE602","Fertilizers","FECD, FE_CD","Magnesium chelate",NA,"2020-07-22, chp",3
-"FE620","Fertilizers","FECD, FE_CD","Calcium chloride",NA,"2020-07-22, chp",3
-"FE621","Fertilizers","FECD, FE_CD","Calcium oxide (burned lime, quicklime)",NA,"2020-07-22, chp",3
-"FE622","Fertilizers","FECD, FE_CD","Selma chalk",NA,"2020-07-22, chp",3
-"FE623","Fertilizers","FECD, FE_CD","Calcium chelate",NA,"2020-07-22, chp",3
-"FE640","Fertilizers","FECD, FE_CD","Borax",NA,"2020-07-22, chp",3
-"FE641","Fertilizers","FECD, FE_CD","Boric acid",NA,"2020-07-22, chp",3
-"FE660","Fertilizers","FECD, FE_CD","Zinc sulfate monohydrate",NA,"2020-07-22, chp",3
-"FE661","Fertilizers","FECD, FE_CD","Zinc sulfate heptahydrate",NA,"2020-07-22, chp",3
-"FE662","Fertilizers","FECD, FE_CD","Zinc oxysulfate",NA,"2020-07-22, chp",3
-"FE663","Fertilizers","FECD, FE_CD","Basic zinc sulfate",NA,"2020-07-22, chp",3
-"FE664","Fertilizers","FECD, FE_CD","Zinc oxide",NA,"2020-07-22, chp",3
-"FE665","Fertilizers","FECD, FE_CD","Zinc carbonate",NA,"2020-07-22, chp",3
-"FE666","Fertilizers","FECD, FE_CD","Zinc chloride",NA,"2020-07-22, chp",3
-"FE667","Fertilizers","FECD, FE_CD","Zinc nitrate",NA,"2020-07-22, chp",3
-"FE668","Fertilizers","FECD, FE_CD","Zinc phosphate",NA,"2020-07-22, chp",3
-"FE669","Fertilizers","FECD, FE_CD","Zonc frits",NA,"2020-07-22, chp",3
-"FE670","Fertilizers","FECD, FE_CD","Ammoniated zinc",NA,"2020-07-22, chp",3
-"FE680","Fertilizers","FECD, FE_CD","Manganese agstone",NA,"2020-07-22, chp",3
-"FE681","Fertilizers","FECD, FE_CD","Manganese chelate",NA,"2020-07-22, chp",3
-"FE682","Fertilizers","FECD, FE_CD","Manganese oxide",NA,"2020-07-22, chp",3
-"FE683","Fertilizers","FECD, FE_CD","Manganese slag",NA,"2020-07-22, chp",3
-"FE684","Fertilizers","FECD, FE_CD","Manganese sulfate",NA,"2020-07-22, chp",3
-"FE685","Fertilizers","FECD, FE_CD","Manganous oxide",NA,"2020-07-22, chp",3
-"FE700","Fertilizers","FECD, FE_CD","Iron chelate",NA,"2020-07-22, chp",3
-"FE701","Fertilizers","FECD, FE_CD","Iron compound",NA,"2020-07-22, chp",3
-"FE702","Fertilizers","FECD, FE_CD","Ferric oxide",NA,"2020-07-22, chp",3
-"FE720","Fertilizers","FECD, FE_CD","Copper oxide, black",NA,"2020-07-22, chp",3
-"FE721","Fertilizers","FECD, FE_CD","Copper oxide, red",NA,"2020-07-22, chp",3
-"FE722","Fertilizers","FECD, FE_CD","Copper chelate",NA,"2020-07-22, chp",3
-"FE723","Fertilizers","FECD, FE_CD","Copper compound",NA,"2020-07-22, chp",3
-"FE740","Fertilizers","FECD, FE_CD","Sodium molybdonate",NA,"2020-07-22, chp",3
-"FE900","Fertilizers","FECD, FE_CD","Generic fertilizer",NA,"2020-07-22, chp",3
+"MG","fertilizers","FEOCD, FEOCD_TOT","Magnesium",NA,NA,1
+"MN","fertilizers","FEOCD, FEOCD_TOT","Manganese",NA,NA,1
+"CA","fertilizers","FEOCD, FEOCD_TOT","Calcium",NA,NA,1
+"CD","fertilizers","FEOCD, FEOCD_TOT","Cadmium",NA,NA,1
+"ZN","fertilizers","FEOCD, FEOCD_TOT","Zinc",NA,NA,1
+"S","fertilizers","FEOCD, FEOCD_TOT","Sulfur",NA,NA,1
+"FE","fertilizers","FEOCD, FEOCD_TOT","Iron",NA,NA,1
+"SE","fertilizers","FEOCD, FEOCD_TOT","Selenium",NA,NA,1
+"B","fertilizers","FEOCD, FEOCD_TOT","Boron",NA,NA,NA
+"FE001","fertilizers","FECD, FE_CD","Ammonium nitrate",NA,NA,1
+"FE002","fertilizers","FECD, FE_CD","Ammonium sulfate",NA,NA,1
+"FE003","fertilizers","FECD, FE_CD","Ammonium nitrate sulfate",NA,NA,1
+"FE004","fertilizers","FECD, FE_CD","Anhydrous ammonia",NA,NA,1
+"FE005","fertilizers","FECD, FE_CD","Urea",NA,NA,1
+"FE006","fertilizers","FECD, FE_CD","Diammonium phosphate (DAP)",NA,NA,1
+"FE007","fertilizers","FECD, FE_CD","Monoammonium phosphate (MAP)",NA,NA,1
+"FE008","fertilizers","FECD, FE_CD","Calcium nitrate",NA,NA,1
+"FE009","fertilizers","FECD, FE_CD","Aqua ammonia",NA,NA,1
+"FE010","fertilizers","FECD, FE_CD","Urea ammonium nitrate",NA,NA,1
+"FE011","fertilizers","FECD, FE_CD","Calcium ammonium nitrate",NA,NA,1
+"FE012","fertilizers","FECD, FE_CD","Ammonium poly-phosphate",NA,NA,1
+"FE013","fertilizers","FECD, FE_CD","Single super phosphate",NA,NA,1
+"FE014","fertilizers","FECD, FE_CD","Triple super phosphate (TSP)",NA,NA,1
+"FE015","fertilizers","FECD, FE_CD","Liquid phosphoric acid",NA,NA,1
+"FE016","fertilizers","FECD, FE_CD","Potassium chloride (muriate of potash, MOP)",NA,NA,1
+"FE017","fertilizers","FECD, FE_CD","Potassium nitrate (nitrate of potash)",NA,NA,1
+"FE018","fertilizers","FECD, FE_CD","Potassium sulfate",NA,NA,1
+"FE019","fertilizers","FECD, FE_CD","Urea super granules",NA,NA,1
+"FE020","fertilizers","FECD, FE_CD","Dolomitic limestone",NA,NA,1
+"FE021","fertilizers","FECD, FE_CD","Rock phosphate",NA,NA,1
+"FE022","fertilizers","FECD, FE_CD","Calcitic limestone",NA,NA,1
+"FE023","fertilizers","FECD, FE_CD","Urea ammonium sulfate",NA,NA,1
+"FE024","fertilizers","FECD, FE_CD","Rhizobium",NA,NA,1
+"FE026","fertilizers","FECD, FE_CD","Calcium hydroxide (hydrated lime)",NA,NA,1
+"FE027","fertilizers","FECD, FE_CD","NPK - ammonium nitrate",NA,"2020-06-25, chp",3
+"FE028","fertilizers","FECD, FE_CD","NPK - urea",NA,"2020-06-25, chp",3
+"FE029","fertilizers","FECD, FE_CD","NPK - ammonium nitrate urea",NA,"2020-06-25, chp",3
+"FE030","fertilizers","FECD, FE_CD","NPK - user blend",NA,"2020-06-25, chp",3
+"FE036","fertilizers","FECD, FE_CD","32% UAN (35% urea + 45% A.N.)",NA,"2020-06-25, chp",3
+"FE037","fertilizers","FECD, FE_CD","30% UAN (33% urea + 42% A.N.)",NA,"2020-06-25, chp",3
+"FE038","fertilizers","FECD, FE_CD","28% UAN (30% urea + 40% A.N.)",NA,"2020-06-25, chp",3
+"FE039","fertilizers","FECD, FE_CD","21% AN (60% A.N. + 40% water)",NA,"2020-06-25, chp",3
+"FE040","fertilizers","FECD, FE_CD","19% AN (54% A.N. + 46% water)",NA,"2020-06-25, chp",3
+"FE041","fertilizers","FECD, FE_CD","Ammonium nitrate limestone",NA,"2020-06-25, chp",3
+"FE042","fertilizers","FECD, FE_CD","Ammonionated super phosphate",NA,"2020-06-25, chp",3
+"FE043","fertilizers","FECD, FE_CD","Ammonium phosphate nitrate",NA,"2020-06-25, chp",3
+"FE044","fertilizers","FECD, FE_CD","Ammonium phosphate sulfate",NA,"2020-06-25, chp",3
+"FE045","fertilizers","FECD, FE_CD","Urea ammonium phosphate",NA,"2020-06-25, chp",3
+"FE046","fertilizers","FECD, FE_CD","Urea phosphate",NA,"2020-06-25, chp",3
+"FE050","fertilizers","FECD, FE_CD","Calcium cyanamide",NA,"2020-06-25, chp",3
+"FE051","fertilizers","FECD, FE_CD","Calcium nitrate-urea",NA,"2020-06-25, chp",3
+"FE055","fertilizers","FECD, FE_CD","Sodium nitrate",NA,"2020-06-25, chp",3
+"FE056","fertilizers","FECD, FE_CD","Magnesium nitrate",NA,"2020-06-25, chp",3
+"FE057","fertilizers","FECD, FE_CD","Ammonium thiosulfate** (60% solution)",NA,"2020-06-25, chp",3
+"FE058","fertilizers","FECD, FE_CD","Ammonium polysulfide",NA,"2020-06-25, chp",3
+"FE059","fertilizers","FECD, FE_CD","Ammonium sulfate solution",NA,"2020-06-25, chp",3
+"FE060","fertilizers","FECD, FE_CD","Ammonium sulfate - nitrate",NA,"2020-06-25, chp",3
+"FE061","fertilizers","FECD, FE_CD","Ferrous ammonium sulfate",NA,"2020-06-25, chp",3
+"FE062","fertilizers","FECD, FE_CD","Liquid ammonium polyphosphate",NA,"2020-06-25, chp",3
+"FE063","fertilizers","FECD, FE_CD","Nitric phosphate",NA,"2020-06-25, chp",3
+"FE064","fertilizers","FECD, FE_CD","Nitric acid",NA,"2020-06-25, chp",3
+"FE065","fertilizers","FECD, FE_CD","Urea solution",NA,"2020-06-25, chp",3
+"FE066","fertilizers","FECD, FE_CD","Zinc ammonium sulfate solution",NA,"2020-06-25, chp",3
+"FE067","fertilizers","FECD, FE_CD","Zinc manganese ammonium sulfate",NA,"2020-06-25, chp",3
+"FE068","fertilizers","FECD, FE_CD","Ammonium metaphosphate",NA,"2020-06-25, chp",3
+"FE069","fertilizers","FECD, FE_CD","Ammonium phosphate",NA,"2020-06-25, chp",3
+"FE070","fertilizers","FECD, FE_CD","Potassium - sodium nitrate",NA,"2020-06-25, chp",3
+"FE201","fertilizers","FECD, FE_CD","ESN",NA,"2020-06-25, chp",3
+"FE202","fertilizers","FECD, FE_CD","NBTPT",NA,"2020-06-25, chp",3
+"FE203","fertilizers","FECD, FE_CD","DCD (dicyandiamide)",NA,"2020-06-25, chp",3
+"FE204","fertilizers","FECD, FE_CD","SuperU",NA,"2020-06-25, chp",3
+"FE205","fertilizers","FECD, FE_CD","DMPP (3,4-Dimethylpyrazole phosphate)",NA,"2020-06-25, chp",3
+"FE206","fertilizers","FECD, FE_CD","Sulfur coated urea (thin coat)",NA,"2020-06-25, chp",3
+"FE207","fertilizers","FECD, FE_CD","Sulfur coated urea (thick coat)",NA,"2020-06-25, chp",3
+"FE208","fertilizers","FECD, FE_CD","ESN + NBTPT",NA,"2020-06-25, chp",3
+"FE209","fertilizers","FECD, FE_CD","Ureaform (urea + formaldehyde)",NA,"2020-06-25, chp",3
+"FE210","fertilizers","FECD, FE_CD","Crotonylidene diurea (CDU)",NA,"2020-06-25, chp",3
+"FE211","fertilizers","FECD, FE_CD","Isobutylidene diurea (IBDU)",NA,"2020-06-25, chp",3
+"FE212","fertilizers","FECD, FE_CD","Methylene ureas",NA,"2020-06-25, chp",3
+"FE300","fertilizers","FECD, FE_CD","Mono potassium phosphate (MKP)",NA,"2020-06-25, chp",3
+"FE301","fertilizers","FECD, FE_CD","Superphosphoric acid",NA,"2020-06-25, chp",3
+"FE302","fertilizers","FECD, FE_CD","Calcium metaphosphate",NA,"2020-06-25, chp",3
+"FE303","fertilizers","FECD, FE_CD","Potassium metaphosphate",NA,"2020-06-25, chp",3
+"FE304","fertilizers","FECD, FE_CD","Precipitated phosphate",NA,"2020-06-25, chp",3
+"FE305","fertilizers","FECD, FE_CD","Magnesium ammonium phosphate (struvite)",NA,"2020-06-25, chp",3
+"FE306","fertilizers","FECD, FE_CD","Bone meal (steamed)",NA,"2020-06-25, chp",3
+"FE307","fertilizers","FECD, FE_CD","Superphosphate, enriched",NA,"2020-06-25, chp",3
+"FE308","fertilizers","FECD, FE_CD","Basic Lime phosphate",NA,"2020-06-25, chp",3
+"FE309","fertilizers","FECD, FE_CD","Magnesium phosphate",NA,"2020-06-25, chp",3
+"FE310","fertilizers","FECD, FE_CD","Limestone, phosphatic",NA,"2020-06-25, chp",3
+"FE311","fertilizers","FECD, FE_CD","Basic slag",NA,"2020-06-25, chp",3
+"FE312","fertilizers","FECD, FE_CD","Colloidal phosphate (Soft)",NA,"2020-06-25, chp",3
+"FE400","fertilizers","FECD, FE_CD","Potash suspensions",NA,"2020-06-25, chp",3
+"FE401","fertilizers","FECD, FE_CD","Potassium carbonate K2CO3 solid",NA,"2020-06-25, chp",3
+"FE402","fertilizers","FECD, FE_CD","Potassium carbonate K2CO3 liquid",NA,"2020-06-25, chp",3
+"FE403","fertilizers","FECD, FE_CD","Potassium magnesium sulfate**",NA,"2020-06-25, chp",3
+"FE404","fertilizers","FECD, FE_CD","Manure salts",NA,"2020-06-25, chp",3
+"FE405","fertilizers","FECD, FE_CD","Kainite KMg(SO4)Cl·3H2O",NA,"2020-06-25, chp",3
+"FE406","fertilizers","FECD, FE_CD","Carnallite (hydrated potassium magnesium chloride)",NA,"2020-06-25, chp",3
+"FE407","fertilizers","FECD, FE_CD","Lime-potash mixtures",NA,"2020-06-25, chp",3
+"FE408","fertilizers","FECD, FE_CD","Greensand",NA,"2020-06-25, chp",3
+"FE500","fertilizers","FECD, FE_CD","Wettable S",NA,"2020-06-25, chp",3
+"FE501","fertilizers","FECD, FE_CD","Flowable S",NA,"2020-06-25, chp",3
+"FE502","fertilizers","FECD, FE_CD","Flowers of S",NA,"2020-06-25, chp",3
+"FE503","fertilizers","FECD, FE_CD","Gypsum",NA,"2020-06-25, chp",3
+"FE504","fertilizers","FECD, FE_CD","Magnesium sulfate (epsom salt)",NA,"2020-06-25, chp",3
+"FE505","fertilizers","FECD, FE_CD","Magnesium sulfate (Kieserite)",NA,"2020-06-25, chp",3
+"FE506","fertilizers","FECD, FE_CD","Sulfuric acid",NA,"2020-06-25, chp",3
+"FE507","fertilizers","FECD, FE_CD","Copper sulfate",NA,"2020-06-25, chp",3
+"FE508","fertilizers","FECD, FE_CD","Aluminum sulfate",NA,"2020-06-25, chp",3
+"FE509","fertilizers","FECD, FE_CD","Cobalt sulfate",NA,"2020-06-25, chp",3
+"FE510","fertilizers","FECD, FE_CD","Ferric sulfate",NA,"2020-06-25, chp",3
+"FE511","fertilizers","FECD, FE_CD","Ferrous sulfate",NA,"2020-06-25, chp",3
+"FE512","fertilizers","FECD, FE_CD","Calcium sulfate (hydrous)",NA,"2020-06-25, chp",3
+"FE513","fertilizers","FECD, FE_CD","Lime sulfur solution",NA,"2020-06-25, chp",3
+"FE600","fertilizers","FECD, FE_CD","Magnesia (Magnesium oxide)",NA,"2020-07-22, chp",3
+"FE601","fertilizers","FECD, FE_CD","Brucite (Magnesium hydroxide)",NA,"2020-07-22, chp",3
+"FE602","fertilizers","FECD, FE_CD","Magnesium chelate",NA,"2020-07-22, chp",3
+"FE620","fertilizers","FECD, FE_CD","Calcium chloride",NA,"2020-07-22, chp",3
+"FE621","fertilizers","FECD, FE_CD","Calcium oxide (burned lime, quicklime)",NA,"2020-07-22, chp",3
+"FE622","fertilizers","FECD, FE_CD","Selma chalk",NA,"2020-07-22, chp",3
+"FE623","fertilizers","FECD, FE_CD","Calcium chelate",NA,"2020-07-22, chp",3
+"FE640","fertilizers","FECD, FE_CD","Borax",NA,"2020-07-22, chp",3
+"FE641","fertilizers","FECD, FE_CD","Boric acid",NA,"2020-07-22, chp",3
+"FE660","fertilizers","FECD, FE_CD","Zinc sulfate monohydrate",NA,"2020-07-22, chp",3
+"FE661","fertilizers","FECD, FE_CD","Zinc sulfate heptahydrate",NA,"2020-07-22, chp",3
+"FE662","fertilizers","FECD, FE_CD","Zinc oxysulfate",NA,"2020-07-22, chp",3
+"FE663","fertilizers","FECD, FE_CD","Basic zinc sulfate",NA,"2020-07-22, chp",3
+"FE664","fertilizers","FECD, FE_CD","Zinc oxide",NA,"2020-07-22, chp",3
+"FE665","fertilizers","FECD, FE_CD","Zinc carbonate",NA,"2020-07-22, chp",3
+"FE666","fertilizers","FECD, FE_CD","Zinc chloride",NA,"2020-07-22, chp",3
+"FE667","fertilizers","FECD, FE_CD","Zinc nitrate",NA,"2020-07-22, chp",3
+"FE668","fertilizers","FECD, FE_CD","Zinc phosphate",NA,"2020-07-22, chp",3
+"FE669","fertilizers","FECD, FE_CD","Zonc frits",NA,"2020-07-22, chp",3
+"FE670","fertilizers","FECD, FE_CD","Ammoniated zinc",NA,"2020-07-22, chp",3
+"FE680","fertilizers","FECD, FE_CD","Manganese agstone",NA,"2020-07-22, chp",3
+"FE681","fertilizers","FECD, FE_CD","Manganese chelate",NA,"2020-07-22, chp",3
+"FE682","fertilizers","FECD, FE_CD","Manganese oxide",NA,"2020-07-22, chp",3
+"FE683","fertilizers","FECD, FE_CD","Manganese slag",NA,"2020-07-22, chp",3
+"FE684","fertilizers","FECD, FE_CD","Manganese sulfate",NA,"2020-07-22, chp",3
+"FE685","fertilizers","FECD, FE_CD","Manganous oxide",NA,"2020-07-22, chp",3
+"FE700","fertilizers","FECD, FE_CD","Iron chelate",NA,"2020-07-22, chp",3
+"FE701","fertilizers","FECD, FE_CD","Iron compound",NA,"2020-07-22, chp",3
+"FE702","fertilizers","FECD, FE_CD","Ferric oxide",NA,"2020-07-22, chp",3
+"FE720","fertilizers","FECD, FE_CD","Copper oxide, black",NA,"2020-07-22, chp",3
+"FE721","fertilizers","FECD, FE_CD","Copper oxide, red",NA,"2020-07-22, chp",3
+"FE722","fertilizers","FECD, FE_CD","Copper chelate",NA,"2020-07-22, chp",3
+"FE723","fertilizers","FECD, FE_CD","Copper compound",NA,"2020-07-22, chp",3
+"FE740","fertilizers","FECD, FE_CD","Sodium molybdonate",NA,"2020-07-22, chp",3
+"FE900","fertilizers","FECD, FE_CD","Generic fertilizer",NA,"2020-07-22, chp",3

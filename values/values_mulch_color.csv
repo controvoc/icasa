@@ -1,7 +1,7 @@
 "name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
-"MC001","Mulch Color","MLCOL","Transparent",NA,"Vers 1.1",1
-"MC002","Mulch Color","MLCOL","White",NA,"Vers 1.1",1
-"MC003","Mulch Color","MLCOL","Black",NA,"Vers 1.1",1
-"MC004","Mulch Color","MLCOL","Brown",NA,"Vers 1.1",1
-"MC005","Mulch Color","MLCOL","Gray",NA,"Vers 1.1",1
-"MC006","Mulch Color","MLCOL","Light straw color",NA,"Vers 1.1",1
+"MC001","mulch_color","MLCOL","Transparent",NA,"Vers 1.1",1
+"MC002","mulch_color","MLCOL","White",NA,"Vers 1.1",1
+"MC003","mulch_color","MLCOL","Black",NA,"Vers 1.1",1
+"MC004","mulch_color","MLCOL","Brown",NA,"Vers 1.1",1
+"MC005","mulch_color","MLCOL","Gray",NA,"Vers 1.1",1
+"MC006","mulch_color","MLCOL","Light straw color",NA,"Vers 1.1",1

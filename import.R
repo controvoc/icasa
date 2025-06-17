@@ -9,7 +9,7 @@
 	x$Description <- x$MinVal <- x$MaxVal <- NULL
 
 	x$unit <- gsub("text|number|code", "", x$Unit_or_type)
-	x$unit <- gsub("arc_degrees", "degrees", x$unit)
+	x$unit <- gsub("decimal_degrees|arc_degrees", "degrees", x$unit)
 	x$unit <- ifelse(is.na(x$unit), "", x$unit)
 	x$type <- x$Data_type
 	x$type <- gsub("single", "numeric", x$type)
@@ -27,16 +27,16 @@
 	x[[code]] <- NULL
 	x <- x[!is.na(x$name), ]
 	if (!is.null(split)) {
+		x[[split]] <- gsub(" ", "_", trimws(gsub(", factors", "", tolower(x[[split]]))))
 		x <- split(x, x[[split]])
-		names(x) <- gsub(" ", "_", trimws(gsub(", factors", "", tolower(names(x)))))
 	} 
 	x
 }
 
 .set_voc <- function(x, nms) {
-	for (i in 1:length(nms)) {
-		m <- grep(nms[i], x$Code_Display, ignore.case=TRUE)
-		x$vocabulary[m] <- nms[i]
+	for (i in 1:nrow(nms)) {
+		m <- grep(nms[i,2], x$Code_Display, fixed=TRUE)
+		x$vocabulary[m] <- nms[i,1]
 	}
 	m <- grep("CH_TARGETS", x$Code_Display, ignore.case=TRUE)
 	x$vocabulary[m] <- "ch_targets"
@@ -72,8 +72,14 @@
 	pest_vals <- pest_vals[, 1:which(names(pest_vals)=="ICASA_standard")]
 	crop_vals <- .icasa_values(d[["Crop_codes"]], "Crop_code")
 
-	valnms <- c(names(meta_vals), names(mngt_vals), names(othr_vals))
+	me <- cbind(group=names(meta_vals), code=names(meta_vals))
+	mg <- do.call(rbind, lapply(mngt_vals, \(x) unique(x[, c("Group.Topic", "Code_Display")])))
+	ot <- do.call(rbind, lapply(othr_vals, \(x) unique(x[, c("Variable", "Code_display")])))
+	names(mg) <- names(ot) <- c("group", "code")
+	valnms <- rbind(me, mg, ot)
+	valnms[,2] <- gsub(", ", "|", toupper(valnms[,2]))
 
+	
 	meta_vars <- .set_voc(meta_vars, valnms)
 	mngt_vars <- .set_voc(mngt_vars, valnms)
 	soil_vars <- .set_voc(soil_vars, valnms)
@@ -100,7 +106,7 @@
 
 testicasa <- function() {
 	filename <- "C:/github/carob/ICASA Data Dictionary.xlsx"
-	outpath <- "d:/icasa"
+	outpath <- "C:/github/carob/icasa"
 	.ICASA(filename, outpath)
 }
 

@@ -1,36 +1,36 @@
 "name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
-"RE001","Residues or organic materials","OMCD","Generic crop residue",NA,NA,1
-"RE002","Residues or organic materials","OMCD","Green manure",NA,NA,1
-"RE003","Residues or organic materials","OMCD","Barnyard manure",NA,NA,1
-"RE004","Residues or organic materials","OMCD","Liquid manure",NA,NA,1
-"RE005","Residues or organic materials","OMCD","Compost",NA,NA,1
-"RE006","Residues or organic materials","OMCD","Bark",NA,NA,1
-"RE101","Residues or organic materials","OMCD","Generic legume residue",NA,NA,1
-"RE102","Residues or organic materials","OMCD","Cowpea residue",NA,NA,1
-"RE103","Residues or organic materials","OMCD","Mucuna residue",NA,NA,1
-"RE104","Residues or organic materials","OMCD","Peanut residue",NA,NA,1
-"RE105","Residues or organic materials","OMCD","Pigeon Pea residue",NA,NA,1
-"RE106","Residues or organic materials","OMCD","Soybean residue",NA,NA,1
-"RE107","Residues or organic materials","OMCD","Alfalfa residue",NA,NA,1
-"RE108","Residues or organic materials","OMCD","Chickpea forage",NA,NA,1
-"RE109","Residues or organic materials","OMCD","Faba bean",NA,NA,1
-"RE110","Residues or organic materials","OMCD","Pea residue",NA,NA,1
-"RE111","Residues or organic materials","OMCD","Hairy vetch",NA,NA,1
-"RE201","Residues or organic materials","OMCD","Generic cereal crop residue",NA,NA,1
-"RE202","Residues or organic materials","OMCD","Pearl millet residue",NA,NA,1
-"RE203","Residues or organic materials","OMCD","Maize residue",NA,NA,1
-"RE204","Residues or organic materials","OMCD","Sorghum residue",NA,NA,1
-"RE205","Residues or organic materials","OMCD","Wheat residue",NA,NA,1
-"RE206","Residues or organic materials","OMCD","Barley",NA,NA,1
-"RE207","Residues or organic materials","OMCD","Rice",NA,NA,1
-"RE208","Residues or organic materials","OMCD","Rye",NA,NA,1
-"RE301","Residues or organic materials","OMCD","Generic grass",NA,NA,1
-"RE302","Residues or organic materials","OMCD","Bahiagrass",NA,NA,1
-"RE303","Residues or organic materials","OMCD","Bermudagrass",NA,NA,1
-"RE304","Residues or organic materials","OMCD","Switchgrass",NA,NA,1
-"RE305","Residues or organic materials","OMCD","brachiaria",NA,NA,1
-"RE306","Residues or organic materials","OMCD","forage grasses",NA,NA,1
-"RE401","Residues or organic materials","OMCD","Bush fallow residue",NA,NA,1
-"RE402","Residues or organic materials","OMCD","Sugarcane",NA,NA,1
-"RE403","Residues or organic materials","OMCD","Pineapple",NA,NA,1
-"RE999","Residues or organic materials","OMCD","Decomposed crop residue",NA,NA,1
+"RE001","residues_or_organic_materials","OMCD","Generic crop residue",NA,NA,1
+"RE002","residues_or_organic_materials","OMCD","Green manure",NA,NA,1
+"RE003","residues_or_organic_materials","OMCD","Barnyard manure",NA,NA,1
+"RE004","residues_or_organic_materials","OMCD","Liquid manure",NA,NA,1
+"RE005","residues_or_organic_materials","OMCD","Compost",NA,NA,1
+"RE006","residues_or_organic_materials","OMCD","Bark",NA,NA,1
+"RE101","residues_or_organic_materials","OMCD","Generic legume residue",NA,NA,1
+"RE102","residues_or_organic_materials","OMCD","Cowpea residue",NA,NA,1
+"RE103","residues_or_organic_materials","OMCD","Mucuna residue",NA,NA,1
+"RE104","residues_or_organic_materials","OMCD","Peanut residue",NA,NA,1
+"RE105","residues_or_organic_materials","OMCD","Pigeon Pea residue",NA,NA,1
+"RE106","residues_or_organic_materials","OMCD","Soybean residue",NA,NA,1
+"RE107","residues_or_organic_materials","OMCD","Alfalfa residue",NA,NA,1
+"RE108","residues_or_organic_materials","OMCD","Chickpea forage",NA,NA,1
+"RE109","residues_or_organic_materials","OMCD","Faba bean",NA,NA,1
+"RE110","residues_or_organic_materials","OMCD","Pea residue",NA,NA,1
+"RE111","residues_or_organic_materials","OMCD","Hairy vetch",NA,NA,1
+"RE201","residues_or_organic_materials","OMCD","Generic cereal crop residue",NA,NA,1
+"RE202","residues_or_organic_materials","OMCD","Pearl millet residue",NA,NA,1
+"RE203","residues_or_organic_materials","OMCD","Maize residue",NA,NA,1
+"RE204","residues_or_organic_materials","OMCD","Sorghum residue",NA,NA,1
+"RE205","residues_or_organic_materials","OMCD","Wheat residue",NA,NA,1
+"RE206","residues_or_organic_materials","OMCD","Barley",NA,NA,1
+"RE207","residues_or_organic_materials","OMCD","Rice",NA,NA,1
+"RE208","residues_or_organic_materials","OMCD","Rye",NA,NA,1
+"RE301","residues_or_organic_materials","OMCD","Generic grass",NA,NA,1
+"RE302","residues_or_organic_materials","OMCD","Bahiagrass",NA,NA,1
+"RE303","residues_or_organic_materials","OMCD","Bermudagrass",NA,NA,1
+"RE304","residues_or_organic_materials","OMCD","Switchgrass",NA,NA,1
+"RE305","residues_or_organic_materials","OMCD","brachiaria",NA,NA,1
+"RE306","residues_or_organic_materials","OMCD","forage grasses",NA,NA,1
+"RE401","residues_or_organic_materials","OMCD","Bush fallow residue",NA,NA,1
+"RE402","residues_or_organic_materials","OMCD","Sugarcane",NA,NA,1
+"RE403","residues_or_organic_materials","OMCD","Pineapple",NA,NA,1
+"RE999","residues_or_organic_materials","OMCD","Decomposed crop residue",NA,NA,1

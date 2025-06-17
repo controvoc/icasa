@@ -1,18 +1,18 @@
 "name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
-"planting","Management Event Type","MGMT_EVENT","Planting, transplanting, sowing",NA,"2020-05-05, CHP, ARDN",NA
-"fertilizer","Management Event Type","MGMT_EVENT","fertilizer application",NA,"2020-05-05, CHP, ARDN",NA
-"irrigation","Management Event Type","MGMT_EVENT","irrigation application",NA,"2020-05-05, CHP, ARDN",NA
-"tillage","Management Event Type","MGMT_EVENT","tillage application",NA,"2020-05-05, CHP, ARDN",NA
-"organic_material","Management Event Type","MGMT_EVENT","organic material application",NA,"2020-05-05, CHP, ARDN",NA
-"harvest","Management Event Type","MGMT_EVENT","harvest",NA,"2020-05-05, CHP, ARDN",NA
-"bed_prep","Management Event Type","MGMT_EVENT","raised bed preparation",NA,"2020-05-05, CHP, ARDN",NA
-"thinning","Management Event Type","MGMT_EVENT","reduce plant density",NA,"2022-06-08, CHP, ARDN",NA
-"inorg_mulch","Management Event Type","MGMT_EVENT","placement of inorganic mulch (e.g., plastic sheeting)",NA,"2020-05-05, CHP, ARDN",NA
-"Inorg_mul_rem","Management Event Type","MGMT_EVENT","removal of inorganic mulch",NA,"2020-06-23, CHP, ARDN",NA
-"chemicals","Management Event Type","MGMT_EVENT","chemicals application",NA,"2020-05-05, CHP, ARDN",NA
-"mowing","Management Event Type","MGMT_EVENT","mowing",NA,"2020-05-05, CHP, ARDN",NA
-"observation","Management Event Type","MGMT_EVENT","observation",NA,"2020-05-05, CHP, ARDN",NA
-"weeding","Management Event Type","MGMT_EVENT","mechanical extraction of weeds",NA,"2020-06-23, CHP, ARDN",NA
-"puddling","Management Event Type","MGMT_EVENT","paddy system preparation, puddling",NA,"2020-06-23, CHP, ARDN",NA
-"flood_level","Management Event Type","MGMT_EVENT","paddy system flood level control",NA,"2020-06-23, CHP, ARDN",NA
-"other","Management Event Type","MGMT_EVENT","various",NA,"2020-05-05, CHP, ARDN",NA
+"planting","management_event_type","MGMT_EVENT","Planting, transplanting, sowing",NA,"2020-05-05, CHP, ARDN",NA
+"fertilizer","management_event_type","MGMT_EVENT","fertilizer application",NA,"2020-05-05, CHP, ARDN",NA
+"irrigation","management_event_type","MGMT_EVENT","irrigation application",NA,"2020-05-05, CHP, ARDN",NA
+"tillage","management_event_type","MGMT_EVENT","tillage application",NA,"2020-05-05, CHP, ARDN",NA
+"organic_material","management_event_type","MGMT_EVENT","organic material application",NA,"2020-05-05, CHP, ARDN",NA
+"harvest","management_event_type","MGMT_EVENT","harvest",NA,"2020-05-05, CHP, ARDN",NA
+"bed_prep","management_event_type","MGMT_EVENT","raised bed preparation",NA,"2020-05-05, CHP, ARDN",NA
+"thinning","management_event_type","MGMT_EVENT","reduce plant density",NA,"2022-06-08, CHP, ARDN",NA
+"inorg_mulch","management_event_type","MGMT_EVENT","placement of inorganic mulch (e.g., plastic sheeting)",NA,"2020-05-05, CHP, ARDN",NA
+"Inorg_mul_rem","management_event_type","MGMT_EVENT","removal of inorganic mulch",NA,"2020-06-23, CHP, ARDN",NA
+"chemicals","management_event_type","MGMT_EVENT","chemicals application",NA,"2020-05-05, CHP, ARDN",NA
+"mowing","management_event_type","MGMT_EVENT","mowing",NA,"2020-05-05, CHP, ARDN",NA
+"observation","management_event_type","MGMT_EVENT","observation",NA,"2020-05-05, CHP, ARDN",NA
+"weeding","management_event_type","MGMT_EVENT","mechanical extraction of weeds",NA,"2020-06-23, CHP, ARDN",NA
+"puddling","management_event_type","MGMT_EVENT","paddy system preparation, puddling",NA,"2020-06-23, CHP, ARDN",NA
+"flood_level","management_event_type","MGMT_EVENT","paddy system flood level control",NA,"2020-06-23, CHP, ARDN",NA
+"other","management_event_type","MGMT_EVENT","various",NA,"2020-05-05, CHP, ARDN",NA

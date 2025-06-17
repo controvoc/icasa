@@ -1,21 +1,21 @@
 "name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
-"AP001","Applications","FEACD, OMACD, CHACD","Broadcast, not incorporated",NA,NA,1
-"AP002","Applications","FEACD, OMACD, CHACD","Broadcast, incorporated",NA,NA,1
-"AP003","Applications","FEACD, OMACD, CHACD","Banded on surface",NA,NA,1
-"AP004","Applications","FEACD, OMACD, CHACD","Banded beneath surface",NA,NA,1
-"AP005","Applications","FEACD, OMACD, CHACD","Applied in irrigation water",NA,NA,1
-"AP006","Applications","FEACD, OMACD, CHACD","Foliar spray",NA,NA,1
-"AP007","Applications","FEACD, OMACD, CHACD","Bottom of hole, deep placement",NA,NA,1
-"AP008","Applications","FEACD, OMACD, CHACD","On the seed",NA,NA,1
-"AP009","Applications","FEACD, OMACD, CHACD","Injected",NA,NA,1
-"AP011","Applications","FEACD, OMACD, CHACD","Broadcast on flooded/saturated soil, none in soil",NA,NA,1
-"AP012","Applications","FEACD, OMACD, CHACD","Broadcast on flooded/saturated soil, 15% in soil",NA,NA,1
-"AP013","Applications","FEACD, OMACD, CHACD","Broadcast on flooded/saturated soil, 30% in soil",NA,NA,1
-"AP014","Applications","FEACD, OMACD, CHACD","Broadcast on flooded/saturated soil, 45% in soil",NA,NA,1
-"AP015","Applications","FEACD, OMACD, CHACD","Broadcast on flooded/saturated soil, 60% in soil",NA,NA,1
-"AP016","Applications","FEACD, OMACD, CHACD","Broadcast on flooded/saturated soil, 75% in soil",NA,NA,1
-"AP017","Applications","FEACD, OMACD, CHACD","Broadcast on flooded/saturated soil, 90% in soil",NA,NA,1
-"AP018","Applications","FEACD, OMACD, CHACD","Band on saturated soil,2cm flood, 92% in soil",NA,NA,1
-"AP019","Applications","FEACD, OMACD, CHACD","Deeply placed urea super granules/pellets, 95% in soil",NA,NA,1
-"AP020","Applications","FEACD, OMACD, CHACD","Deeply placed urea super granules/pellets, 100% in soil",NA,NA,1
-"AP999","Applications","FEACD, OMACD, CHACD","Application method unknown/not given",NA,NA,1
+"AP001","applications","FEACD, OMACD, CHACD","Broadcast, not incorporated",NA,NA,1
+"AP002","applications","FEACD, OMACD, CHACD","Broadcast, incorporated",NA,NA,1
+"AP003","applications","FEACD, OMACD, CHACD","Banded on surface",NA,NA,1
+"AP004","applications","FEACD, OMACD, CHACD","Banded beneath surface",NA,NA,1
+"AP005","applications","FEACD, OMACD, CHACD","Applied in irrigation water",NA,NA,1
+"AP006","applications","FEACD, OMACD, CHACD","Foliar spray",NA,NA,1
+"AP007","applications","FEACD, OMACD, CHACD","Bottom of hole, deep placement",NA,NA,1
+"AP008","applications","FEACD, OMACD, CHACD","On the seed",NA,NA,1
+"AP009","applications","FEACD, OMACD, CHACD","Injected",NA,NA,1
+"AP011","applications","FEACD, OMACD, CHACD","Broadcast on flooded/saturated soil, none in soil",NA,NA,1
+"AP012","applications","FEACD, OMACD, CHACD","Broadcast on flooded/saturated soil, 15% in soil",NA,NA,1
+"AP013","applications","FEACD, OMACD, CHACD","Broadcast on flooded/saturated soil, 30% in soil",NA,NA,1
+"AP014","applications","FEACD, OMACD, CHACD","Broadcast on flooded/saturated soil, 45% in soil",NA,NA,1
+"AP015","applications","FEACD, OMACD, CHACD","Broadcast on flooded/saturated soil, 60% in soil",NA,NA,1
+"AP016","applications","FEACD, OMACD, CHACD","Broadcast on flooded/saturated soil, 75% in soil",NA,NA,1
+"AP017","applications","FEACD, OMACD, CHACD","Broadcast on flooded/saturated soil, 90% in soil",NA,NA,1
+"AP018","applications","FEACD, OMACD, CHACD","Band on saturated soil,2cm flood, 92% in soil",NA,NA,1
+"AP019","applications","FEACD, OMACD, CHACD","Deeply placed urea super granules/pellets, 95% in soil",NA,NA,1
+"AP020","applications","FEACD, OMACD, CHACD","Deeply placed urea super granules/pellets, 100% in soil",NA,NA,1
+"AP999","applications","FEACD, OMACD, CHACD","Application method unknown/not given",NA,NA,1

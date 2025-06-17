@@ -1,7 +1,7 @@
 "name","Code_display","Description","Comment","ICASA_standard"
-"ET001","EXPER_TYPE","Conventional replicated field trial",NA,1
-"ET002","EXPER_TYPE","Breeding nursery or varietal trial","Distinction from ET002 is somewhat arbitrary",1
-"ET003","EXPER_TYPE","Free-air CO2 enrichment",NA,1
-"ET004","EXPER_TYPE","Open-top chamber CO2 enrichment",NA,1
-"ET005","EXPER_TYPE","Closed chamber",NA,1
-"ET006","EXPER_TYPE","Moisture or nutrient gradient study",NA,1
+"ET001","exper_type","Conventional replicated field trial",NA,1
+"ET002","exper_type","Breeding nursery or varietal trial","Distinction from ET002 is somewhat arbitrary",1
+"ET003","exper_type","Free-air CO2 enrichment",NA,1
+"ET004","exper_type","Open-top chamber CO2 enrichment",NA,1
+"ET005","exper_type","Closed chamber",NA,1
+"ET006","exper_type","Moisture or nutrient gradient study",NA,1

@@ -1,5 +1,5 @@
 "name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
-"A","Environmental modifications","EC???","Add",NA,NA,1
-"S","Environmental modifications","EC???","Subtract",NA,NA,1
-"M","Environmental modifications","EC???","Multiply",NA,NA,1
-"R","Environmental modifications","EC???","Replace",NA,NA,1
+"A","environmental_modifications","EC???","Add",NA,NA,1
+"S","environmental_modifications","EC???","Subtract",NA,NA,1
+"M","environmental_modifications","EC???","Multiply",NA,NA,1
+"R","environmental_modifications","EC???","Replace",NA,NA,1

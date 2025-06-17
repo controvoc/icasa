@@ -1,14 +1,14 @@
 "name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
-"IR001","Irrigation method","IROP, IAME","Furrow, mm",NA,NA,1
-"IR002","Irrigation method","IROP, IAME","Alternating furrows, mm",NA,NA,1
-"IR003","Irrigation method","IROP, IAME","Flood, mm",NA,NA,1
-"IR004","Irrigation method","IROP, IAME","Sprinkler, mm",NA,NA,1
-"IR005","Irrigation method","IROP, IAME","Drip or trickle, mm",NA,NA,1
-"IR006","Irrigation method","IROP, IAME","Flood depth, mm",NA,NA,1
-"IR007","Irrigation method","IROP, IAME","Water table depth, mm",NA,NA,1
-"IR008","Irrigation method","IROP, IAME","Percolation rate, mm day-1",NA,NA,1
-"IR009","Irrigation method","IROP, IAME","Bund height, mm",NA,NA,1
-"IR010","Irrigation method","IROP, IAME","Puddling (for Rice only)",NA,NA,1
-"IR011","Irrigation method","IROP, IAME","Constant flood depth, mm",NA,NA,1
-"IR012","Irrigation method","IROP, IAME","Subsurface (burried) drip, mm",NA,"Jeff added for wheat FACE",NA
-"IR999","Irrigation method","IROP, IAME","Irrigation method unknown/not given",NA,NA,1
+"IR001","irrigation_method","IROP, IAME","Furrow, mm",NA,NA,1
+"IR002","irrigation_method","IROP, IAME","Alternating furrows, mm",NA,NA,1
+"IR003","irrigation_method","IROP, IAME","Flood, mm",NA,NA,1
+"IR004","irrigation_method","IROP, IAME","Sprinkler, mm",NA,NA,1
+"IR005","irrigation_method","IROP, IAME","Drip or trickle, mm",NA,NA,1
+"IR006","irrigation_method","IROP, IAME","Flood depth, mm",NA,NA,1
+"IR007","irrigation_method","IROP, IAME","Water table depth, mm",NA,NA,1
+"IR008","irrigation_method","IROP, IAME","Percolation rate, mm day-1",NA,NA,1
+"IR009","irrigation_method","IROP, IAME","Bund height, mm",NA,NA,1
+"IR010","irrigation_method","IROP, IAME","Puddling (for Rice only)",NA,NA,1
+"IR011","irrigation_method","IROP, IAME","Constant flood depth, mm",NA,NA,1
+"IR012","irrigation_method","IROP, IAME","Subsurface (burried) drip, mm",NA,"Jeff added for wheat FACE",NA
+"IR999","irrigation_method","IROP, IAME","Irrigation method unknown/not given",NA,NA,1

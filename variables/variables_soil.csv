@@ -31,8 +31,8 @@
 "soil_location_country","character","","","","","First admin for location of site for soil profile (usually country)","SL_LOC_1","SL_LOC_1",5,NA,"text","text","SOIL","SOIL_PROFILES","PROFILE_METADATA",NA,4041,NA,"COUNTRY","SOIL META",5012
 "soil_loc_2nd_level","character","","","","","Second admin level for location of site for soil profile (usually state or province)","SL_LOC_2","SL_LOC_2",6,NA,"text","text","SOIL","SOIL_PROFILES","PROFILE_METADATA",NA,4041,NA,".",NA,NA
 "soil_loc_3rd_level","character","","","","","Third admin level for location of site for soil profile (usually county or municipality)","SL_LOC_3","SL_LOC_3",7,NA,"text","text","SOIL","SOIL_PROFILES","PROFILE_METADATA",NA,4041,NA,".",NA,NA
-"latitude_soil_profile","numeric","decimal_degrees","","-80","80","Latitude of soil profile site","SOIL_LAT","SOIL_LAT",8,NA,"decimal_degrees","single","SOIL","SOIL_PROFILES","PROFILE_METADATA",NA,4041,NA,"LAT","SOIL META",5013
-"longitude_soil_profile","numeric","decimal_degrees","","-180","180","Longitude of soil profile site","SOIL_LONG","SOIL_LONG",9,NA,"decimal_degrees","single","SOIL","SOIL_PROFILES","PROFILE_METADATA",NA,4041,NA,"LONG","SOIL META",5014
+"latitude_soil_profile","numeric","degrees","","-80","80","Latitude of soil profile site","SOIL_LAT","SOIL_LAT",8,NA,"decimal_degrees","single","SOIL","SOIL_PROFILES","PROFILE_METADATA",NA,4041,NA,"LAT","SOIL META",5013
+"longitude_soil_profile","numeric","degrees","","-180","180","Longitude of soil profile site","SOIL_LONG","SOIL_LONG",9,NA,"decimal_degrees","single","SOIL","SOIL_PROFILES","PROFILE_METADATA",NA,4041,NA,"LONG","SOIL META",5014
 "soil_site_elevation","numeric","m","","","","Elevation of soil profile site","SOIL_ELEV","SOIL_ELEV",10,NA,"m","single","SOIL","SOIL_PROFILES","PROFILE_METADATA",NA,4041,NA,NA,NA,NA
 "soil_sampling_date","character","date","","","","Date soil was sampled in field (e.g., for profile description)","SOIL_DATE","SOIL_DATE",11,NA,"date","single","SOIL","SOIL_PROFILES","PROFILE_METADATA",NA,4041,"2017-03-17, jww",NA,NA,NA
 "soil_depth","numeric","cm","","0","","Soil depth","SLDP","SLDP",21,NA,"cm","single","SOIL","SOIL_PROFILES","PROFILE_METADATA",NA,4041,NA,"SLDP","SOIL META",5004
@@ -43,7 +43,7 @@
 "soil_profile_ID","character","","","","","Soil profile identifier","SOIL_ID","SOIL_ID",1,NA,"text","text","SOIL","SOIL_PROFILES","SOIL_PROFILE",NA,4051,NA,"SOIL_ID","SOIL GENERAL",5101
 "soil_classific_system","character","","","","","Soil classification system (e.g., FAO, USDA)","SL_SYSTEM","SL_SYSTEM",2,NA,"text","text","SOIL","SOIL_PROFILES","SOIL_PROFILE",NA,4051,NA,NA,NA,NA
 "soil_classification","character","","","","","Soil classification","CLASSIFICATION","CLASSIFICATION",3,NA,"text","text","SOIL","SOIL_PROFILES","SOIL_PROFILE",NA,4051,NA,"SCS FAMILY","SOIL META",5015
-"soil_drainage_class","character","","","","","Soil profile drainage class","DRAINAGE","DRAINAGE",4,NA,"code","text","SOIL","SOIL_PROFILES","SOIL_PROFILE",NA,4051,NA,NA,NA,NA
+"soil_drainage_class","character","","soil_drainage_class","","","Soil profile drainage class","DRAINAGE","DRAINAGE",4,NA,"code","text","SOIL","SOIL_PROFILES","SOIL_PROFILE",NA,4051,NA,NA,NA,NA
 "soil_albedo","numeric","unitless","","","","Soil albedo, dry soil","SALB","SALB",11,NA,"unitless","single","SOIL","SOIL_PROFILES","SOIL_PROFILE",NA,4051,"41309","SALB","SOIL GENERAL",5103
 "soil_albedo_moist","numeric","unitless","","","","Soil albedo, moist soil","SALBM","SALBM",12,NA,"unitless","single","SOIL","SOIL_PROFILES","SOIL_PROFILE",NA,4051,"41309",".",NA,NA
 "soil_evaporation_limit","numeric","mm","","0","","Soil evaporation, upper limit for stage 1","SLU1","SLU1",13,NA,"mm","single","SOIL","SOIL_PROFILES","SOIL_PROFILE",NA,4051,NA,"SLU1","SOIL GENERAL",5104

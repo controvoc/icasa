@@ -1,8 +1,8 @@
 "name","Code_display","Description","Comment","ICASA_standard"
-"PR001","PP_ROLE","Principal investigator",NA,1
-"PR002","PP_ROLE","Collaborator",NA,1
-"PR003","PP_ROLE","Supervisor",NA,1
-"PR004","PP_ROLE","Technical support",NA,1
-"PR005","PP_ROLE","Data analyst",NA,1
-"PR006","PP_ROLE","Converts data to ICASA format",NA,1
-"PR007","PP_ROLE","Producer",NA,NA
+"PR001","pp_role","Principal investigator",NA,1
+"PR002","pp_role","Collaborator",NA,1
+"PR003","pp_role","Supervisor",NA,1
+"PR004","pp_role","Technical support",NA,1
+"PR005","pp_role","Data analyst",NA,1
+"PR006","pp_role","Converts data to ICASA format",NA,1
+"PR007","pp_role","Producer",NA,NA
