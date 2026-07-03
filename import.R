@@ -105,9 +105,9 @@
 
 
 testicasa <- function() {
-	filename <- "C:/github/carob/ICASA Data Dictionary.xlsx"
-	outpath <- "C:/github/carob/icasa"
+	outpath <- "C:/github/controvoc/icasa"
+	filename <- file.path(outpath, "ICASA_Data_Dictionary.xlsx")
 	.ICASA(filename, outpath)
 }
 
-#testicasa()
+testicasa()

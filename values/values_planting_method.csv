@@ -1,0 +1,13 @@
+"name","Group.Topic","Code_Display","Description","Usage","Comment","ICASA_standard"
+"MP","planting_method","PLME","Seed placed (dropped) manually in prepared furrow",NA,"JWW 2025-07-02",NA
+"MD","planting_method","PLME","Seed placed manually in hole from dibble stick or similar",NA,"JWW 2025-07-02",NA
+"JP","planting_method","PLME","Jab-type  planter (e.g., ""matraca"") that drops seed as hole is opened",NA,"JWW 2025-07-02",NA
+"SD","planting_method","PLME","Seed-drill where seed are essentially poured continuously as drill advances",NA,"JWW 2025-07-02",NA
+"PL","planting_method","PLME","Planter where individual seed are dropped in a furrow",NA,"JWW 2025-07-02",NA
+"PP","planting_method","PLME","Precision planter where seed are dropped individually with controlled, uniform spacing",NA,"JWW 2025-07-02",NA
+"FD","planting_method","PLME","Fluid-drilled, where seed are delivered in a fluid",NA,"JWW 2025-07-02",NA
+"ST","planting_method","PLME","Seed tape or similar where seed are atached or embedded in a biodegradable tape or similar",NA,"JWW 2025-07-02",NA
+"BR","planting_method","PLME","Seed are broadcast over the field",NA,"JWW 2025-07-02",NA
+"MT","planting_method","PLME","Stock is transplanted by hand",NA,"JWW 2025-07-02",NA
+"AT","planting_method","PLME","Stock is transplanted using machine to assist process (e.g., to present stock to worker)",NA,"JWW 2025-07-02",NA
+"FT","planting_method","PLME","Transpanting is fully-automated",NA,"JWW 2025-07-02",NA
